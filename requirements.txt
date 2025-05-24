@@ -2,3 +2,5 @@ pandas
 streamlit
 plotly
 ucimlrepo
+matplotlib
+seaborn
