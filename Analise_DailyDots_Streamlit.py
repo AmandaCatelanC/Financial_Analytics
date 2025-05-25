@@ -33,6 +33,9 @@ df_explodido = pd.read_csv("tabela_tratada_base_exemplo.csv", encoding="utf-8-si
 st.write("### Preview das 3 primeiras linhas da tabela")	
 st.dataframe(df_explodido.head(3))  # tabela interativa
 
+# Corrigido aqui para df_explodido
+st.metric(label="Total de registros", value=f"{len(df_explodido):,}")
+
 # Texto explicativo (storytelling)
 st.markdown("""
 Este conjunto de dados foi coletado por meio de um **chatbot com IA via WhatsApp**, onde usuários interagem com o app **DailyDots**, um diário digital focado em **autoconhecimento e saúde emocional**. As interações são classificadas em tipos como *Journaling*, *Desabafo*, *Reflexão Profunda* e *Reflexão Curta", como registrado na coluna `Tipo`.
@@ -90,7 +93,7 @@ df_plot = comentarios_percentual.reset_index()
 df_plot.columns = ['Temas', 'porcentagem']
 
 # Criar gráfico
-fig, ax = plt.subplots(figsize=(8, 4))
+fig, ax = plt.subplots(figsize=(8, 6))
 sns.barplot(
     data=df_plot,
     x='Temas',
@@ -127,16 +130,19 @@ porcentagem_long = porcentagem.reset_index().melt(
     id_vars='Temas', var_name='engajamento', value_name='porcentagem'
 )
 
+# Corrigir nomes da coluna para corresponder à paleta
+porcentagem_long['engajamento'] = porcentagem_long['engajamento'].str.capitalize()
 
 # --- Paleta personalizada ---
 custom_palette = {
-    'baixo': '#A7C7E7',   # azul pastel
-    'médio': '#FFFACD',   # amarelo pastel
-    'alto': '#A8E6CF'     # verde pastel
+    'Baixo': '#F08080',   # vermelho claro
+    'Médio': '#FFFACD',   # amarelo pastel
+    'Alto': '#A8E6CF'     # verde pastel
 }
 
 # --- Criar gráfico ---
-fig_1, ax = plt.subplots(figsize=(16, 6))
+fig, ax = plt.subplots(figsize=(10, 6))
+
 sns.barplot(
     data=porcentagem_long,
     x='Temas',
@@ -147,22 +153,159 @@ sns.barplot(
     ax=ax
 )
 
-ax.set_title('Distribuição Percentual de Engajamento por Tema')
-ax.set_xlabel('Tema')
+ax.set_title('Distribuição percentual de engajamento por tema')
+ax.set_xlabel('Temas')
 ax.set_ylabel('Porcentagem (%)')
-ax.tick_params(axis='x', rotation=45)
 ax.legend(title='Engajamento')
+ax.tick_params(axis='x', rotation=45)
+plt.tight_layout()
 
-# Rótulos em cada barra
-for container in ax.containers:
-    ax.bar_label(container, fmt='%.1f%%', label_type='edge', padding=3)
+st.pyplot(fig)
+
+import matplotlib.pyplot as plt
+import seaborn as sns
+import streamlit as st
+
+# Paletas
+custom_palette = {
+    'baixo': '#F08080',   # vermelho claro (ajustei o comentário)
+    'médio': '#FFFACD',   # amarelo pastel
+    'alto': '#A8E6CF'     # verde pastel
+}
+
+vibe_palette = {
+    'Muito Negativa': '#FFB6B6',
+    'Negativa': '#FFA07A',
+    'Neutra': '#FFFACD',
+    'Positiva': '#A8E6CF',
+    'Muito Positiva': '#A7C7E7'
+}
+
+# --- Gráfico 1: Vibe por Nível de Engajamento ---
+
+# 1. Contagem por 'Vibe' e 'engajamento'
+contagem_Vibe = df_explodido.groupby(['Vibe', 'engajamento']).size().unstack(fill_value=0)
+
+# 2. Porcentagem por linha
+porcentagem_Vibe = contagem_Vibe.div(contagem_Vibe.sum(axis=1), axis=0) * 100
+
+# 3. De wide para long
+porcentagem_long_1 = porcentagem_Vibe.reset_index().melt(
+    id_vars='Vibe', var_name='engajamento', value_name='porcentagem_Vibe'
+)
+
+# Ordenar 'Vibe' pela frequência na base original
+ordem_vibe = df_explodido['Vibe'].value_counts().index.tolist()
+
+fig1, ax1 = plt.subplots(figsize=(14, 10))
+sns.barplot(
+    data=porcentagem_long_1,
+    x='Vibe',
+    y='porcentagem_Vibe',
+    hue='engajamento',
+    palette=custom_palette,
+    order=ordem_vibe,
+    ax=ax1
+)
+
+ax1.set_title('Vibe por Nível de Engajamento')
+ax1.set_xlabel('Vibe')
+ax1.set_ylabel('Porcentagem (%)')
+ax1.tick_params(axis='x', rotation=45)
+ax1.legend(title='Engajamento')
+
+for container in ax1.containers:
+    ax1.bar_label(container, fmt='%.1f%%', label_type='edge', padding=3)
 
 plt.tight_layout()
 
-# --- Mostrar no Streamlit ---
-st.pyplot(fig_1)
 
+# --- Gráfico 2: Distribuição de Pessoas por Vibe ---
 
+contagem_vibe = df_explodido['Vibe'].value_counts()
+porcentagem_vibe = (contagem_vibe / contagem_vibe.sum()) * 100
 
+df_vibe = pd.DataFrame({
+    'Vibe': contagem_vibe.index,
+    'quantidade': contagem_vibe.values,
+    'porcentagem': porcentagem_vibe.values
+})
 
+# Ordem desejada para o gráfico 2
+ordem = ['Muito Negativa', 'Negativa', 'Neutra', 'Positiva', 'Muito Positiva']
+df_vibe = df_vibe.set_index('Vibe').reindex(ordem).reset_index()
 
+fig2, ax2 = plt.subplots(figsize=(14, 10))
+sns.barplot(
+    data=df_vibe,
+    x='Vibe',
+    y='quantidade',
+    palette=vibe_palette,
+    order=ordem,
+
+)
+
+for i, row in df_vibe.iterrows():
+    ax2.text(
+        i,
+        row['quantidade'] + max(df_vibe['quantidade']) * 0.01,
+        f"{int(row['quantidade'])} ({row['porcentagem']:.1f}%)",
+        ha='center',
+        va='bottom',
+        fontsize=10
+    )
+
+ax2.set_title("Distribuição de Pessoas por Vibe")
+ax2.set_xlabel("Vibe")
+ax2.set_ylabel("Quantidade de Pessoas")
+ax2.tick_params(axis='x', rotation=30)
+
+plt.tight_layout()
+
+# --- Exibir lado a lado no Streamlit ---
+
+col1, col2 = st.columns(2)
+
+with col1:
+    st.pyplot(fig1)
+
+with col2:
+    st.pyplot(fig2)
+
+# 1. Contagem por 'Reflexoes' e 'engajamento'
+contagem_Reflexoes = df_explodido.groupby(['Reflexoes', 'engajamento']).size().unstack(fill_value=0)
+
+# 2. Porcentagem por linha
+porcentagem_Reflexoes = contagem_Reflexoes.div(contagem_Reflexoes.sum(axis=1), axis=0) * 100
+
+# 3. De wide para long
+porcentagem_long_3 = porcentagem_Reflexoes.reset_index().melt(
+    id_vars='Reflexoes', var_name='engajamento', value_name='porcentagem_Reflexoes'
+)
+
+# Ordenar 'Reflexoes' pela frequência na base original
+ordem_Reflexoes = df_explodido['Reflexoes'].value_counts().index.tolist()
+
+fig3, ax1 = plt.subplots(figsize=(14, 10))
+sns.barplot(
+    data=porcentagem_long_3,
+    x='Reflexoes',
+    y='porcentagem_Reflexoes',
+    hue='engajamento',
+    palette=custom_palette,
+    order=ordem_Reflexoes,
+    ax=ax1
+)
+
+ax1.set_title('Tipo de Reflexão por Nível de Engajamento')
+ax1.set_xlabel('Reflexão')
+ax1.set_ylabel('Porcentagem (%)')
+ax1.tick_params(axis='x', rotation=45)
+ax1.legend(title='Engajamento')
+
+for container in ax1.containers:
+    ax1.bar_label(container, fmt='%.1f%%', label_type='edge', padding=3)
+
+plt.tight_layout()
+
+st.pyplot(fig3)

@@ -1,10 +1,10 @@
 ﻿user_id,data,Tipo,Reflexoes,Pensamento Suicida,Elogio,Sugestoes da IA,Tamanho,Vibe,Temas,Subtemas,quantidade_comentarios,engajamento,tema
 01fa5fc6-6aba-4a9f-9c7b-02ee230da37f,4/4/2025,Journaling,Nada,Não,Neutro,Não,Normal,Positiva,Uso Aplicativo,Introdução ao uso do Dailydots e registro de conta.,1,baixo,Uso Aplicativo
-02a34da6-cc1b-4992-902b-fe071939661f,4/5/2025,Journaling,Nada,Não,Neutro,Não,Muito curto,,Sem informação,Outros,1,baixo,Outros
+02a34da6-cc1b-4992-902b-fe071939661f,4/5/2025,Journaling,Nada,Não,Neutro,Não,Muito curto,,Outros,Outros,1,baixo,Outros
 07039758-bca1-450b-8285-e252f2bbdd15,3/24/2025,Journaling,Nada,Não,Neutro,Não,Normal,Positiva,Autoconhecimento,Sentimento de bem-estar e tranquilidade,2,baixo,Autoconhecimento
 07039758-bca1-450b-8285-e252f2bbdd15,3/27/2025,Desabafo,Nada,Não,Neutro,Não,Normal,Negativa,Familiar,"Abandono familiar, Tristeza com parente",2,baixo,Familiar
 078c96a4-58e5-41c0-821f-3982e74f706a,3/31/2025,Journaling,Nada,Não,Neutro,Não,Muito curto,Positiva,Uso Aplicativo,Introdução ao uso do Dailydots,1,baixo,Uso Aplicativo
-07be4074-3f98-497f-b103-eabf65446883,4/3/2025,Journaling,Nada,Não,Neutro,Não,Muito curto,,Sem informação,Outros,2,baixo,Outros
+07be4074-3f98-497f-b103-eabf65446883,4/3/2025,Journaling,Nada,Não,Neutro,Não,Muito curto,,Outros,Outros,2,baixo,Outros
 07be4074-3f98-497f-b103-eabf65446883,4/5/2025,Journaling,Nada,Não,Neutro,Não,Muito curto,Neutra,Rotina,Procrastinação,2,baixo,Rotina
 0ad14368-5c9d-495b-9fb7-a24e1c1c39df,3/27/2025,Journaling,Pouco,Não,Elogio,Sim,Longo,Positiva,Financeiros,Organização Financeira,4,médio,Financeiros
 0ad14368-5c9d-495b-9fb7-a24e1c1c39df,3/29/2025,Journaling,Muito,Não,Neutro,Não,Longo,Positiva,Familiar,Busca por paz e conexão familiar através de atividades e reflexões sobre o uso de álcool.,4,médio,Familiar
@@ -30,7 +30,7 @@
 1072bef7-39c7-4d3c-9466-0f8bca8d25c1,3/28/2025,Desabafo,Nada,Não,Neutro,Não,Normal,Muito Negativa,Amoroso,"Sentimento de tristeza e frustração, Falta de dinheiro e trabalho",4,médio,Trabalho
 1072bef7-39c7-4d3c-9466-0f8bca8d25c1,3/28/2025,Desabafo,Nada,Não,Neutro,Não,Normal,Muito Negativa,Depressão,"Sentimento de tristeza e frustração, Falta de dinheiro e trabalho",4,médio,Trabalho
 1072bef7-39c7-4d3c-9466-0f8bca8d25c1,3/28/2025,Desabafo,Nada,Não,Neutro,Não,Normal,Muito Negativa,Depressão,"Sentimento de tristeza e frustração, Falta de dinheiro e trabalho",4,médio,Trabalho
-1072bef7-39c7-4d3c-9466-0f8bca8d25c1,3/29/2025,Desabafo,Muito,Não,Neutro,Não,Longo,Negativa,Sem informação,"Golpe sentimental, Meditação, Terapia Cognitivo-Comportamental, Uso de medicamento, Falta de apoio",4,médio,Outros
+1072bef7-39c7-4d3c-9466-0f8bca8d25c1,3/29/2025,Desabafo,Muito,Não,Neutro,Não,Longo,Negativa,Outros,"Golpe sentimental, Meditação, Terapia Cognitivo-Comportamental, Uso de medicamento, Falta de apoio",4,médio,Outros
 1072bef7-39c7-4d3c-9466-0f8bca8d25c1,3/29/2025,Desabafo,Muito,Não,Neutro,Não,Longo,Negativa,Trabalho,"Golpe sentimental, Meditação, Terapia Cognitivo-Comportamental, Uso de medicamento, Falta de apoio",4,médio,Outros
 1072bef7-39c7-4d3c-9466-0f8bca8d25c1,3/29/2025,Desabafo,Muito,Não,Neutro,Não,Longo,Negativa,Amizade,"Golpe sentimental, Meditação, Terapia Cognitivo-Comportamental, Uso de medicamento, Falta de apoio",4,médio,Outros
 1072bef7-39c7-4d3c-9466-0f8bca8d25c1,3/29/2025,Desabafo,Muito,Não,Neutro,Não,Longo,Negativa,Ansiedade,"Golpe sentimental, Meditação, Terapia Cognitivo-Comportamental, Uso de medicamento, Falta de apoio",4,médio,Outros
@@ -39,12 +39,12 @@
 10b2f6e1-0333-4c97-8430-15cac59a1d64,3/29/2025,Journaling,Pouco,Não,Elogio,Não,Longo,Negativa,Saúde,"Desemprego, Isolamento Social, Preocupação Financeira, Solidão",2,baixo,Trabalho
 10b2f6e1-0333-4c97-8430-15cac59a1d64,3/29/2025,Journaling,Pouco,Não,Elogio,Não,Longo,Negativa,Depressão,"Desemprego, Isolamento Social, Preocupação Financeira, Solidão",2,baixo,Trabalho
 111c5c22-e9ef-433d-aa62-25f56841faf3,4/2/2025,Journaling,Nada,Não,Neutro,Não,Normal,Neutra,Trabalho,Sentimento de preocupação geral,4,médio,Outros
-111c5c22-e9ef-433d-aa62-25f56841faf3,4/3/2025,Journaling,Nada,Não,Neutro,Não,Muito curto,,Sem informação,Outros,4,médio,Outros
+111c5c22-e9ef-433d-aa62-25f56841faf3,4/3/2025,Journaling,Nada,Não,Neutro,Não,Muito curto,,Outros,Outros,4,médio,Outros
 111c5c22-e9ef-433d-aa62-25f56841faf3,4/5/2025,Journaling,Nada,Não,Neutro,Não,Normal,Neutra,Amoroso,Sentimento de ansiedade sem detalhes específicos,4,médio,Outros
 111c5c22-e9ef-433d-aa62-25f56841faf3,4/8/2025,Desabafo,Muito,Não,Neutro,Sim,Longo,Negativa,Familiar,"Ansiedade constante, Diagnóstico médico incerto, Suspeita de câncer, Impacto financeiro e emocional, Dificuldade em estar presente",4,médio,Familiar
 12c630f8-f7a9-4ef2-bd2d-2cf2b3e997ba,3/28/2025,Journaling,Pouco,Não,Elogio,Não,Longo,Neutra,Depressão,Falta de ânimo e energia para atividades diárias,1,baixo,Depressão
 132c7614-e866-4424-aea4-171e3b5fe83b,4/3/2025,Journaling,Pouco,Não,Elogio,Não,Normal,Neutra,Trabalho,Situações financeiras e frustração profissional,1,baixo,Trabalho
-139f1ab1-f44f-44e7-9bcb-367277d99e3b,3/17/2025,Journaling,Nada,Não,Neutro,Não,Curto,,Sem informação,Outros,2,baixo,Outros
+139f1ab1-f44f-44e7-9bcb-367277d99e3b,3/17/2025,Journaling,Nada,Não,Neutro,Não,Curto,,Outros,Outros,2,baixo,Outros
 139f1ab1-f44f-44e7-9bcb-367277d99e3b,3/18/2025,Desabafo,Pouco,Não,Elogio,Não,Longo,Negativa,Amoroso,Término e sentimentos contraditórios,2,baixo,Amoroso
 143b0181-2c01-49aa-93be-1255b6815ea0,11/18/2024,,,,,,,,Ansiedade,,119,alto,Outros
 143b0181-2c01-49aa-93be-1255b6815ea0,3/2/2025,,,,,,,,Trabalho,,119,alto,Outros
@@ -72,7 +72,7 @@
 143b0181-2c01-49aa-93be-1255b6815ea0,11/21/2024,Journaling,Pouco,Não,Neutro,Não,Normal,Neutra,Trabalho,Conflito com ex-funcionário,119,alto,Trabalho
 143b0181-2c01-49aa-93be-1255b6815ea0,11/23/2024,Journaling,Nada,Não,Neutro,Não,Curto,Positiva,Familiar,Dia tranquilo com a família,119,alto,Familiar
 143b0181-2c01-49aa-93be-1255b6815ea0,11/24/2024,Journaling,Pouco,Não,Neutro,Não,Normal,Positiva,Familiar,Dia tranquilo com a família e preparação para viagem,119,alto,Familiar
-143b0181-2c01-49aa-93be-1255b6815ea0,11/25/2024,Journaling,Nada,Não,Neutro,Não,Normal,Neutra,Sem informação,Comunicação com colega,119,alto,Outros
+143b0181-2c01-49aa-93be-1255b6815ea0,11/25/2024,Journaling,Nada,Não,Neutro,Não,Normal,Neutra,Outros,Comunicação com colega,119,alto,Outros
 143b0181-2c01-49aa-93be-1255b6815ea0,11/26/2024,Journaling,Pouco,Não,Neutro,Não,Normal,Neutra,Amoroso,Saúde do filho e estresse da esposa,119,alto,Amoroso
 143b0181-2c01-49aa-93be-1255b6815ea0,11/27/2024,Journaling,Pouco,Não,Neutro,Não,Normal,Positiva,Familiar,"Saudade da família, Trabalho, Objetivos pessoais",119,alto,Familiar
 143b0181-2c01-49aa-93be-1255b6815ea0,11/28/2024,Journaling,Nada,Não,Neutro,Não,Normal,Neutra,Rotina,Atividades diárias e planejamento futuro,119,alto,Rotina
@@ -178,7 +178,7 @@
 147841ff-3276-40c6-98f7-962820126a99,1/4/2025,Journaling,Pouco,Não,Neutro,Não,Normal,Positiva,Saúde,"Rotina diária, Exercício, Estudos, Padrão de sono, Tarefas domésticas",5,médio,Saúde
 14c29c24-5e9b-4e08-b582-073d4e6abec9,4/4/2025,Journaling,Nada,Não,Neutro,Não,Normal,,Amoroso,Outros,1,baixo,Outros
 14c29c24-5e9b-4e08-b582-073d4e6abec9,4/4/2025,Journaling,Nada,Não,Neutro,Não,Normal,,Trabalho,Outros,1,baixo,Outros
-15a98270-b967-4abc-a744-1101a56d985b,12/19/2024,Journaling,Nada,Não,Neutro,Não,Normal,,Sem informação,Outros,5,médio,Outros
+15a98270-b967-4abc-a744-1101a56d985b,12/19/2024,Journaling,Nada,Não,Neutro,Não,Normal,,Outros,Outros,5,médio,Outros
 15a98270-b967-4abc-a744-1101a56d985b,12/20/2024,Journaling,Pouco,Não,Neutro,Não,Longo,Positiva,Outros,Motivação e Objetivos Pessoais,5,médio,Outros
 15a98270-b967-4abc-a744-1101a56d985b,12/22/2024,Journaling,Nada,Não,Neutro,Não,Muito curto,,Outros,Outros,5,médio,Outros
 15a98270-b967-4abc-a744-1101a56d985b,1/1/2025,Journaling,Nada,Não,Neutro,Não,Muito curto,Neutra,Outros,Pausa na interação diária,5,médio,Outros
@@ -219,7 +219,7 @@
 214fc0ef-93ee-40f0-8f88-607349f01e60,4/2/2025,Journaling,Nada,Não,Neutro,Não,Muito curto,,Familiar,Outros,2,baixo,Outros
 21efabd1-bb90-4f87-8f8e-9b6b9535b1bf,4/3/2025,Journaling,Muito,Não,Elogio,Sim,Longo,Neutra,Ansiedade,"Provas escolares, Motivação no esporte, Organização de estudos",2,baixo,Acadêmicos
 21efabd1-bb90-4f87-8f8e-9b6b9535b1bf,4/5/2025,Journaling,Muito,Não,Elogio,Não,Normal,Positiva,Depressão,Descanso e Espiritualidade,2,baixo,Rotina
-21f16927-9041-4739-9a0b-fdc0c943ee87,3/26/2025,Journaling,Muito,Não,Elogio,Não,Longo,Neutra,Sem informação,"Relacionamento à distância, Inseguranças, Comunicação",6,alto,Outros
+21f16927-9041-4739-9a0b-fdc0c943ee87,3/26/2025,Journaling,Muito,Não,Elogio,Não,Longo,Neutra,Outros,"Relacionamento à distância, Inseguranças, Comunicação",6,alto,Outros
 21f16927-9041-4739-9a0b-fdc0c943ee87,3/27/2025,Desabafo,Pouco,Não,Neutro,Sim,Normal,,Amoroso,Relacionamento Amoroso,6,alto,Amoroso
 21f16927-9041-4739-9a0b-fdc0c943ee87,3/28/2025,Desabafo,Muito,Não,Neutro,Não,Longo,Neutra,Amoroso,"Relacionamento à distância, Comunicação, Confiança",6,alto,Outros
 21f16927-9041-4739-9a0b-fdc0c943ee87,3/29/2025,Desabafo,Pouco,Não,Neutro,Não,Normal,Negativa,Outros,Distanciamento emocional,6,alto,Outros
@@ -256,7 +256,7 @@
 355cea54-f23f-4a03-8217-5dd8d1cfc1a0,3/29/2025,Desabafo,Nada,Não,Neutro,Não,Longo,Neutra,Saúde,"Espiritualidade, Saúde Física, Justiça e Documentação",10,alto,Saúde
 355cea54-f23f-4a03-8217-5dd8d1cfc1a0,4/1/2025,Desabafo,Nada,Não,Neutro,Não,Longo,Neutra,Autoconhecimento,Fé e espiritualidade,10,alto,Autoconhecimento
 355cea54-f23f-4a03-8217-5dd8d1cfc1a0,4/2/2025,Desabafo,Nada,Não,Neutro,Não,Longo,Neutra,Saúde,"Fé e Espiritualidade, Saúde Física, Justiça e Direitos",10,alto,Saúde
-355cea54-f23f-4a03-8217-5dd8d1cfc1a0,4/3/2025,Journaling,Nada,Não,Neutro,Não,Muito curto,Neutra,Sem informação,Despedida casual,10,alto,Outros
+355cea54-f23f-4a03-8217-5dd8d1cfc1a0,4/3/2025,Journaling,Nada,Não,Neutro,Não,Muito curto,Neutra,Outros,Despedida casual,10,alto,Outros
 355cea54-f23f-4a03-8217-5dd8d1cfc1a0,4/5/2025,Desabafo,Nada,Não,Neutro,Não,Longo,Neutra,Saúde,"Fé e espiritualidade, Saúde física, Justiça e legalidade, Redes sociais e plataformas digitais",10,alto,Saúde
 355cea54-f23f-4a03-8217-5dd8d1cfc1a0,4/6/2025,Muito curto,Nada,Não,Neutro,Não,Muito curto,,Amoroso,Outros,10,alto,Outros
 355cea54-f23f-4a03-8217-5dd8d1cfc1a0,4/7/2025,Desabafo,Nada,Não,Neutro,Não,Longo,Neutra,Saúde,"Saúde, Fé, Redes Sociais, Justiça",10,alto,Saúde
@@ -274,10 +274,10 @@
 38f1d3c5-2df2-4606-9c8f-1d35e0aad6ca,4/4/2025,Desabafo,Nada,Não,Neutro,Não,Muito curto,,Amoroso,Outros,1,baixo,Outros
 3a36c098-257c-43f6-b7c1-e92f478e5db2,4/2/2025,,,,,,,,Outros,,1,baixo,Outros
 408f17f1-7a86-4af6-973b-e5430e23b8f0,3/16/2025,Desabafo,Pouco,Não,Neutro,Não,Normal,Negativa,Amoroso,"Instabilidade no casamento, Sentimentos de angústia e insuficiência",2,baixo,Amoroso
-408f17f1-7a86-4af6-973b-e5430e23b8f0,3/17/2025,Journaling,Nada,Não,Neutro,Não,Curto,,Sem informação,Outros,2,baixo,Outros
+408f17f1-7a86-4af6-973b-e5430e23b8f0,3/17/2025,Journaling,Nada,Não,Neutro,Não,Curto,,Outros,Outros,2,baixo,Outros
 409299da-145a-441f-88a3-346c6c9fc142,3/24/2025,,,,,,,,Outros,,3,médio,Outros
 409299da-145a-441f-88a3-346c6c9fc142,3/29/2025,Journaling,Nada,Não,Neutro,Não,Muito curto,Neutra,Outros,Nenhum específico,3,médio,Outros
-409299da-145a-441f-88a3-346c6c9fc142,4/1/2025,Journaling,Nada,Não,Neutro,Não,Muito curto,,Sem informação,Outros,3,médio,Outros
+409299da-145a-441f-88a3-346c6c9fc142,4/1/2025,Journaling,Nada,Não,Neutro,Não,Muito curto,,Outros,Outros,3,médio,Outros
 4130a971-f2b8-4f38-a06b-b02ded6e1450,4/1/2025,,,,,,,,Outros,,6,alto,Outros
 4130a971-f2b8-4f38-a06b-b02ded6e1450,3/31/2025,Journaling,Pouco,Não,Elogio,Sim,Longo,Neutra,Trabalho,Dificuldade em encontrar emprego e sentimento de inadequação,6,alto,Trabalho
 4130a971-f2b8-4f38-a06b-b02ded6e1450,4/2/2025,Journaling,Muito,Não,Elogio,Sim,Longo,Positiva,Trabalho,Desemprego e Empreendedorismo,6,alto,Trabalho
@@ -310,7 +310,7 @@
 4827c1cf-0c17-43d1-90d8-d9700df1c19c,4/3/2025,Journaling,Nada,Não,Neutro,Não,Muito curto,Neutra,Rotina,Indisponibilidade de horário para atendimento,9,alto,Rotina
 4827c1cf-0c17-43d1-90d8-d9700df1c19c,4/4/2025,Journaling,Pouco,Não,Neutro,Não,Normal,Negativa,Depressão,Sentimento de tristeza e falta de cor na vida,9,alto,Depressão
 4827c1cf-0c17-43d1-90d8-d9700df1c19c,4/5/2025,Journaling,Nada,Não,Neutro,Não,Muito curto,Neutra,Rotina,Horário de Atendimento,9,alto,Rotina
-4827c1cf-0c17-43d1-90d8-d9700df1c19c,4/6/2025,Journaling,Nada,Não,Neutro,Não,Curto,Negativa,Sem informação,Sentimento de estar para baixo sem especificar motivo,9,alto,Outros
+4827c1cf-0c17-43d1-90d8-d9700df1c19c,4/6/2025,Journaling,Nada,Não,Neutro,Não,Curto,Negativa,Outros,Sentimento de estar para baixo sem especificar motivo,9,alto,Outros
 49e4ec83-a118-401c-bcc1-374b3b65825b,3/24/2025,Journaling,Pouco,Não,Neutro,Não,Longo,Negativa,Amizade,"Esquecimento, Sentimento de inutilidade, Conflito entre amigos, Desejo de ajudar",2,baixo,Amizade
 49e4ec83-a118-401c-bcc1-374b3b65825b,3/26/2025,Journaling,Muito,Não,Neutro,Não,Longo,Neutra,Amizade,Confusão sobre sentimentos e desejo de amizade,2,baixo,Amizade
 4adc2777-e8b3-4cdc-be18-84502a537d22,3/13/2025,Desabafo,Muito,Não,Neutro,Não,Longo,Negativa,Amoroso,Desafios emocionais com parceiro com transtorno de personalidade borderline,1,baixo,Amoroso
@@ -322,13 +322,13 @@
 51def109-7f32-4e66-be4b-103daba8853c,4/7/2025,Journaling,Muito,Não,Elogio,Não,Longo,Positiva,Rotina,Participação em atividades religiosas e impacto positivo na vida,2,baixo,Rotina
 52918e94-9f14-4c93-9336-aca70b19ec9f,4/5/2025,Journaling,Pouco,Não,Neutro,Sim,Normal,Neutra,Financeiros,Vida financeira e preocupação com o futuro,1,baixo,Financeiros
 52a131be-06d5-470f-8055-6508622054a9,12/12/2024,Journaling,Pouco,Não,Neutro,Sim,Normal,,Ansiedade,Outros,1,baixo,Outros
-54577275-48e9-4c03-ad4d-5e03ea717e22,3/14/2025,Journaling,Pouco,Não,Elogio,Não,Longo,Neutra,Sem informação,Ansiedade Generalizada/Burnout,1,baixo,Outros
+54577275-48e9-4c03-ad4d-5e03ea717e22,3/14/2025,Journaling,Pouco,Não,Elogio,Não,Longo,Neutra,Outros,Ansiedade Generalizada/Burnout,1,baixo,Outros
 5472f5f8-dd06-426e-8b0a-7c8bdd6d8b83,4/3/2025,Desabafo,Pouco,Não,Neutro,Não,Longo,Neutra,Amoroso,Infidelidade e Confusão Emocional,1,baixo,Amoroso
 56589c35-3af2-44f4-bda1-d7a6453487ab,3/17/2025,Journaling,Nada,Não,Elogio,Não,Normal,Positiva,Autoconhecimento,Autoconhecimento e hábitos diários,3,médio,Autoconhecimento
 56589c35-3af2-44f4-bda1-d7a6453487ab,3/22/2025,Journaling,Pouco,Não,Neutro,Não,Normal,Positiva,Familiar,Reflexão sobre o silêncio como resposta,3,médio,Autoconhecimento
 56589c35-3af2-44f4-bda1-d7a6453487ab,3/16/2025,Desabafo,Pouco,Sim,Neutro,Sim,Longo,Negativa,Rotina,Sentimento de sobrecarga e desejo de escapar,3,médio,Rotina
-57bd6b80-a496-4b05-a4dc-693e1729608a,4/2/2025,Journaling,Nada,Não,Elogio,Não,Normal,,Sem informação,Outros,1,baixo,Outros
-5d1fc4a0-a9cb-4025-ac35-35ad722181fb,4/3/2025,Journaling,Nada,Não,Neutro,Não,Normal,,Sem informação,Outros,1,baixo,Outros
+57bd6b80-a496-4b05-a4dc-693e1729608a,4/2/2025,Journaling,Nada,Não,Elogio,Não,Normal,,Outros,Outros,1,baixo,Outros
+5d1fc4a0-a9cb-4025-ac35-35ad722181fb,4/3/2025,Journaling,Nada,Não,Neutro,Não,Normal,,Outros,Outros,1,baixo,Outros
 5e4f2c0d-574f-4c5b-9618-399fea08b21a,3/31/2025,,,,,,,,Familiar,,31,alto,Outros
 5e4f2c0d-574f-4c5b-9618-399fea08b21a,4/2/2025,,,,,,,,Outros,,31,alto,Outros
 5e4f2c0d-574f-4c5b-9618-399fea08b21a,11/1/2024,Journaling,Pouco,Não,Neutro,Não,Longo,Positiva,Familiar,"Primeiro Halloween do filho, Produtividade no trabalho, Metas para o time",31,alto,Familiar
@@ -345,14 +345,14 @@
 5e4f2c0d-574f-4c5b-9618-399fea08b21a,12/21/2024,Journaling,Muito,Não,Neutro,Não,Longo,Positiva,Familiar,Adaptação do segundo filho e rotina diária com filhos pequenos,31,alto,Familiar
 5e4f2c0d-574f-4c5b-9618-399fea08b21a,12/22/2024,Journaling,Pouco,Não,Neutro,Não,Normal,Positiva,Familiar,"Saúde dos filhos, Atividades recreativas com filhos",31,alto,Familiar
 5e4f2c0d-574f-4c5b-9618-399fea08b21a,12/24/2024,Journaling,Pouco,Não,Neutro,Não,Normal,Positiva,Familiar,"Atividades do dia a dia, cuidados com o bebê",31,alto,Familiar
-5e4f2c0d-574f-4c5b-9618-399fea08b21a,12/25/2024,Journaling,Nada,Não,Neutro,Não,Curto,,Sem informação,Outros,31,alto,Outros
+5e4f2c0d-574f-4c5b-9618-399fea08b21a,12/25/2024,Journaling,Nada,Não,Neutro,Não,Curto,,Outros,Outros,31,alto,Outros
 5e4f2c0d-574f-4c5b-9618-399fea08b21a,1/4/2025,Journaling,Nada,Não,Neutro,Não,Muito curto,,Amoroso,Outros,31,alto,Outros
 5e4f2c0d-574f-4c5b-9618-399fea08b21a,1/5/2025,Journaling,Pouco,Não,Neutro,Não,Normal,Neutra,Familiar,Dificuldades com o bebê Lucas,31,alto,Familiar
 5e4f2c0d-574f-4c5b-9618-399fea08b21a,3/19/2025,Journaling,Muito,Não,Neutro,Não,Longo,Muito Positiva,Familiar,"Maternidade, Relação entre irmãos, Felicidade com a família",31,alto,Familiar
 5e4f2c0d-574f-4c5b-9618-399fea08b21a,3/21/2025,Desabafo,Muito,Não,Neutro,Não,Longo,Negativa,Familiar,"Convivência com a mãe, Tensão e ansiedade, Sentimento de culpa, Estratégias de alívio",31,alto,Familiar
 5e4f2c0d-574f-4c5b-9618-399fea08b21a,3/22/2025,Journaling,Pouco,Não,Neutro,Não,Normal,,Ansiedade,Problemas na Familia,31,alto,Familiar
 5e4f2c0d-574f-4c5b-9618-399fea08b21a,3/23/2025,Journaling,Nada,Não,Neutro,Não,Muito curto,Neutra,Amoroso,Sentimentos Iniciais,31,alto,Outros
-5e4f2c0d-574f-4c5b-9618-399fea08b21a,3/23/2025,Journaling,Nada,Não,Neutro,Não,Muito curto,Neutra,Autoestima,Sentimentos Iniciais,31,alto,Outros
+5e4f2c0d-574f-4c5b-9618-399fea08b21a,3/23/2025,Journaling,Nada,Não,Neutro,Não,Muito curto,Neutra,Autoconhecimento,Sentimentos Iniciais,31,alto,Outros
 5e4f2c0d-574f-4c5b-9618-399fea08b21a,3/24/2025,Desabafo,Muito,Não,Neutro,Não,Normal,Negativa,Familiar,Conflito com a mãe e dificuldades na educação dos filhos,31,alto,Familiar
 5e4f2c0d-574f-4c5b-9618-399fea08b21a,3/25/2025,Journaling,Muito,Não,Neutro,Não,Normal,Neutra,Trabalho,"Conflito com a mãe, Relacionamento Amoroso",31,alto,Amoroso
 5e4f2c0d-574f-4c5b-9618-399fea08b21a,3/26/2025,Journaling,Pouco,Não,Neutro,Não,Normal,Positiva,Familiar,"Reflexo da mãe, Crescimento do filho, Dia do circo na escola",31,alto,Familiar
@@ -382,7 +382,7 @@
 625a018b-fb50-4444-b011-6ddbd649a4e7,4/1/2025,Reflexão Profunda,Muito,Não,Elogio,Sim,Longo,Positiva,Ansiedade,Medo e Auto-perdão,11,alto,Autoconhecimento
 625a018b-fb50-4444-b011-6ddbd649a4e7,4/2/2025,Reflexão Profunda,Muito,Não,Neutro,Não,Longo,Neutra,Familiar,"Dinâmicas familiares, Medos, Perdão",11,alto,Familiar
 681c2e42-6e05-457b-bd1f-5cfbf3b6cd2e,3/29/2025,Journaling,Nada,Não,Neutro,Não,Muito curto,,Ansiedade,Outros,1,baixo,Outros
-68a52a77-5f06-4f79-a52b-0245104eedea,4/1/2025,,,,,,,,Sem informação,,5,médio,Outros
+68a52a77-5f06-4f79-a52b-0245104eedea,4/1/2025,,,,,,,,Outros,,5,médio,Outros
 68a52a77-5f06-4f79-a52b-0245104eedea,3/29/2025,Journaling,Pouco,Não,Elogio,Sim,Longo,Neutra,Ansiedade,Preocupações financeiras e dívidas acumuladas,5,médio,Saúde
 68a52a77-5f06-4f79-a52b-0245104eedea,3/30/2025,Journaling,Pouco,Não,Neutro,Não,Curto,,Trabalho,Ansiedade,5,médio,Outros
 68a52a77-5f06-4f79-a52b-0245104eedea,4/2/2025,Journaling,Nada,Não,Neutro,Não,Normal,Positiva,Outros,Nenhum específico,5,médio,Outros
@@ -407,9 +407,9 @@
 7309961b-267a-4dcc-b848-32f3a24b931e,4/2/2025,Journaling,Pouco,Não,Elogio,Não,Normal,Neutra,Familiar,Desejo de espontaneidade e ausência de cobranças em situações recentes,1,baixo,Familiar
 770d2c6e-f8c7-4e25-b225-12dc0f333d30,3/20/2025,Journaling,Pouco,Não,Elogio,Sim,Longo,Neutra,Familiar,Falta de pacientes na clínica e cansaço no trabalho,8,alto,Familiar
 770d2c6e-f8c7-4e25-b225-12dc0f333d30,3/21/2025,Journaling,Nada,Não,Neutro,Não,Normal,Positiva,Autoconhecimento,Sentimento de bem-estar geral,8,alto,Autoconhecimento
-770d2c6e-f8c7-4e25-b225-12dc0f333d30,3/22/2025,Journaling,Nada,Não,Neutro,Não,Muito curto,Neutra,Sem informação,Nenhum específico,8,alto,Outros
+770d2c6e-f8c7-4e25-b225-12dc0f333d30,3/22/2025,Journaling,Nada,Não,Neutro,Não,Muito curto,Neutra,Outros,Nenhum específico,8,alto,Outros
 770d2c6e-f8c7-4e25-b225-12dc0f333d30,3/23/2025,Journaling,Pouco,Não,Elogio,Não,Longo,Positiva,Familiar,Dinâmica familiar e saúde da mãe,8,alto,Familiar
-770d2c6e-f8c7-4e25-b225-12dc0f333d30,3/24/2025,Journaling,Nada,Não,Neutro,Não,Muito curto,Neutra,Sem informação,Nenhum específico,8,alto,Outros
+770d2c6e-f8c7-4e25-b225-12dc0f333d30,3/24/2025,Journaling,Nada,Não,Neutro,Não,Muito curto,Neutra,Outros,Nenhum específico,8,alto,Outros
 770d2c6e-f8c7-4e25-b225-12dc0f333d30,3/25/2025,Journaling,Nada,Não,Neutro,Não,Muito curto,Neutra,Outros,Nenhum específico,8,alto,Outros
 770d2c6e-f8c7-4e25-b225-12dc0f333d30,3/26/2025,Journaling,Nada,Não,Neutro,Não,Muito curto,Neutra,Outros,Nenhum específico,8,alto,Outros
 770d2c6e-f8c7-4e25-b225-12dc0f333d30,3/27/2025,Journaling,Nada,Não,Neutro,Não,Muito curto,Neutra,Trabalho,Nenhum específico,8,alto,Outros
@@ -419,7 +419,7 @@
 78693efc-2e59-41b9-9eca-2a355f5e2026,3/27/2025,Journaling,Nada,Não,Neutro,Não,Muito curto,Neutra,Outros,Nenhum específico,3,médio,Outros
 78bcb706-0cf3-4e4e-9a38-54bbfb496838,3/29/2025,Journaling,Pouco,Não,Elogio,Não,Longo,Neutra,Saúde,Catastrofização de sintomas físicos,5,médio,Saúde
 78bcb706-0cf3-4e4e-9a38-54bbfb496838,3/30/2025,Reflexão Profunda,Muito,Não,Neutro,Não,Longo,Neutra,Familiar,"Segurança na internet para adolescentes, Educação e comunicação entre pais e filhos, Papel das escolas na segurança online",5,médio,Familiar
-78bcb706-0cf3-4e4e-9a38-54bbfb496838,3/31/2025,Journaling,Nada,Não,Neutro,Não,Muito curto,Neutra,Sem informação,Nenhum,5,médio,Outros
+78bcb706-0cf3-4e4e-9a38-54bbfb496838,3/31/2025,Journaling,Nada,Não,Neutro,Não,Muito curto,Neutra,Outros,Nenhum,5,médio,Outros
 78bcb706-0cf3-4e4e-9a38-54bbfb496838,4/1/2025,Journaling,Nada,Não,Neutro,Não,Curto,Positiva,Autoconhecimento,Sentimento de bem-estar,5,médio,Autoconhecimento
 78bcb706-0cf3-4e4e-9a38-54bbfb496838,4/3/2025,Journaling,Nada,Não,Neutro,Não,Curto,Positiva,Amoroso,Sentimento de bem-estar geral,5,médio,Autoconhecimento
 79808e75-6ff0-49f8-a1d6-da802c7a0dad,3/14/2025,Journaling,Nada,Não,Neutro,Não,Normal,Neutra,Outros,Sentimento de estar para baixo sem detalhes específicos,2,baixo,Outros
@@ -432,7 +432,7 @@
 7ad7c40e-3b8b-4f31-9c71-2fe7b5a2921f,1/14/2025,,,,,,,,Amoroso,,106,alto,Outros
 7ad7c40e-3b8b-4f31-9c71-2fe7b5a2921f,3/30/2025,,,,,,,,Amoroso,,106,alto,Outros
 7ad7c40e-3b8b-4f31-9c71-2fe7b5a2921f,3/30/2025,,,,,,,,Saúde,,106,alto,Outros
-7ad7c40e-3b8b-4f31-9c71-2fe7b5a2921f,4/3/2025,,,,,,,,Sem informação,,106,alto,Outros
+7ad7c40e-3b8b-4f31-9c71-2fe7b5a2921f,4/3/2025,,,,,,,,Outros,,106,alto,Outros
 7ad7c40e-3b8b-4f31-9c71-2fe7b5a2921f,10/20/2024,Journaling,Nada,Não,Neutro,Não,Curto,Neutra,Outros,Nenhum específico,106,alto,Outros
 7ad7c40e-3b8b-4f31-9c71-2fe7b5a2921f,10/21/2024,Journaling,Nada,Não,Neutro,Não,Muito curto,Neutra,Amoroso,Nenhum específico,106,alto,Outros
 7ad7c40e-3b8b-4f31-9c71-2fe7b5a2921f,10/22/2024,Journaling,Muito,Não,Neutro,Não,Normal,Positiva,Amizade,"Progresso no projeto, Empréstimo a amigo",106,alto,Amizade
@@ -440,7 +440,7 @@
 7ad7c40e-3b8b-4f31-9c71-2fe7b5a2921f,10/23/2024,Journaling,Muito,Não,Neutro,Não,Longo,Neutra,Amoroso,"Trabalho com a namorada, Dificuldades técnicas e gestão da raiva",106,alto,Amoroso
 7ad7c40e-3b8b-4f31-9c71-2fe7b5a2921f,10/24/2024,Journaling,Muito,Não,Neutro,Não,Curto,Muito Positiva,Familiar,"Papel no relacionamento, Organização do tempo, Criatividade, Exercício físico",106,alto,Saúde
 7ad7c40e-3b8b-4f31-9c71-2fe7b5a2921f,10/25/2024,Journaling,Pouco,Não,Neutro,Não,Normal,Muito Positiva,Trabalho,"Progresso no projeto Dailydots, Conclusão da semana de trabalho",106,alto,Trabalho
-7ad7c40e-3b8b-4f31-9c71-2fe7b5a2921f,10/29/2024,Journaling,Nada,Não,Neutro,Não,Muito curto,,Sem informação,Outros,106,alto,Outros
+7ad7c40e-3b8b-4f31-9c71-2fe7b5a2921f,10/29/2024,Journaling,Nada,Não,Neutro,Não,Muito curto,,Outros,Outros,106,alto,Outros
 7ad7c40e-3b8b-4f31-9c71-2fe7b5a2921f,10/30/2024,Journaling,Muito,Não,Neutro,Não,Longo,Positiva,Amizade,Energia e Planejamento Diário,106,alto,Rotina
 7ad7c40e-3b8b-4f31-9c71-2fe7b5a2921f,10/30/2024,Journaling,Muito,Não,Neutro,Não,Longo,Positiva,Amoroso,Energia e Planejamento Diário,106,alto,Rotina
 7ad7c40e-3b8b-4f31-9c71-2fe7b5a2921f,10/31/2024,Journaling,Nada,Não,Neutro,Não,Curto,,Ansiedade,Outros,106,alto,Outros
@@ -466,7 +466,7 @@
 7ad7c40e-3b8b-4f31-9c71-2fe7b5a2921f,12/7/2024,Journaling,Muito,Não,Neutro,Não,Normal,Positiva,Trabalho,Comunicação e Desenvolvimento Pessoal,106,alto,Outros
 7ad7c40e-3b8b-4f31-9c71-2fe7b5a2921f,12/10/2024,Journaling,Muito,Não,Neutro,Não,Longo,Positiva,Outros,Distrações com redes sociais e celular,106,alto,Outros
 7ad7c40e-3b8b-4f31-9c71-2fe7b5a2921f,12/11/2024,Journaling,Pouco,Não,Neutro,Não,Longo,Positiva,Familiar,Tempo com a família do noivo,106,alto,Familiar
-7ad7c40e-3b8b-4f31-9c71-2fe7b5a2921f,12/12/2024,Journaling,Muito,Não,Neutro,Não,Longo,Positiva,Sem informação,"Discussão durante viagem, Comunicação e Limites",106,alto,Outros
+7ad7c40e-3b8b-4f31-9c71-2fe7b5a2921f,12/12/2024,Journaling,Muito,Não,Neutro,Não,Longo,Positiva,Outros,"Discussão durante viagem, Comunicação e Limites",106,alto,Outros
 7ad7c40e-3b8b-4f31-9c71-2fe7b5a2921f,12/13/2024,Journaling,Muito,Não,Neutro,Não,Normal,Positiva,Amoroso,"Rotina diária, Planejamento de casamento, Mindfulness, Cansaço",106,alto,Amoroso
 7ad7c40e-3b8b-4f31-9c71-2fe7b5a2921f,12/14/2024,Journaling,Nada,Não,Neutro,Não,Muito curto,,Trabalho,Outros,106,alto,Outros
 7ad7c40e-3b8b-4f31-9c71-2fe7b5a2921f,12/14/2024,Journaling,Nada,Não,Neutro,Não,Muito curto,,Amizade,Outros,106,alto,Outros
@@ -498,7 +498,7 @@
 7ad7c40e-3b8b-4f31-9c71-2fe7b5a2921f,1/9/2025,Journaling,Muito,Não,Neutro,Não,Normal,Positiva,Familiar,"Mudança de casa, Proatividade, Espiritualidade, Comunicação",106,alto,Autoconhecimento
 7ad7c40e-3b8b-4f31-9c71-2fe7b5a2921f,1/10/2025,Journaling,Muito,Não,Neutro,Não,Longo,Positiva,Amizade,"Gratidão, Produtividade, Sono",106,alto,Rotina
 7ad7c40e-3b8b-4f31-9c71-2fe7b5a2921f,1/13/2025,Journaling,Nada,Não,Neutro,Não,Curto,Neutra,Uso Aplicativo,Escolha de template para journaling diário,106,alto,Uso Aplicativo
-7ad7c40e-3b8b-4f31-9c71-2fe7b5a2921f,1/15/2025,Journaling,Nada,Não,Neutro,Não,Curto,,Sem informação,Outros,106,alto,Outros
+7ad7c40e-3b8b-4f31-9c71-2fe7b5a2921f,1/15/2025,Journaling,Nada,Não,Neutro,Não,Curto,,Outros,Outros,106,alto,Outros
 7ad7c40e-3b8b-4f31-9c71-2fe7b5a2921f,1/16/2025,Journaling,Muito,Não,Neutro,Não,Normal,Negativa,Familiar,Comunicação e Frustração,106,alto,Outros
 7ad7c40e-3b8b-4f31-9c71-2fe7b5a2921f,1/17/2025,Journaling,Pouco,Não,Neutro,Não,Normal,Neutra,Familiar,"Discussão no trabalho, Tempo com a família e amigos",106,alto,Familiar
 7ad7c40e-3b8b-4f31-9c71-2fe7b5a2921f,1/17/2025,Journaling,Pouco,Não,Neutro,Não,Normal,Neutra,Familiar,"Discussão no trabalho, Tempo com a família e amigos",106,alto,Familiar
@@ -506,7 +506,7 @@
 7ad7c40e-3b8b-4f31-9c71-2fe7b5a2921f,1/19/2025,Journaling,Muito,Não,Neutro,Não,Longo,Positiva,Outros,"Interesses não compartilhados, Comunicação",106,alto,Outros
 7ad7c40e-3b8b-4f31-9c71-2fe7b5a2921f,1/20/2025,Journaling,Muito,Não,Neutro,Não,Longo,Positiva,Rotina,"Rotina e disciplina, Importância da incerteza para o progresso",106,alto,Rotina
 7ad7c40e-3b8b-4f31-9c71-2fe7b5a2921f,1/21/2025,Journaling,Muito,Não,Neutro,Não,Normal,Positiva,Outros,Paciência e Trânsito,106,alto,Outros
-7ad7c40e-3b8b-4f31-9c71-2fe7b5a2921f,1/22/2025,Journaling,Nada,Não,Neutro,Não,Curto,,Sem informação,Outros,106,alto,Outros
+7ad7c40e-3b8b-4f31-9c71-2fe7b5a2921f,1/22/2025,Journaling,Nada,Não,Neutro,Não,Curto,,Outros,Outros,106,alto,Outros
 7ad7c40e-3b8b-4f31-9c71-2fe7b5a2921f,1/23/2025,Journaling,Muito,Não,Neutro,Não,Longo,Positiva,Saúde,"Insights sobre o relacionamento, Atividades físicas, Qualidade do sono, Produtividade",106,alto,Saúde
 7ad7c40e-3b8b-4f31-9c71-2fe7b5a2921f,1/24/2025,Journaling,Muito,Não,Neutro,Não,Longo,Neutra,Amizade,"Sentimento de vazio, falta de direção, redes sociais, relações familiares, autenticidade, ação, presença em eventos esportivos",106,alto,Familiar
 7ad7c40e-3b8b-4f31-9c71-2fe7b5a2921f,1/24/2025,Journaling,Muito,Não,Neutro,Não,Longo,Neutra,Familiar,"Sentimento de vazio, falta de direção, redes sociais, relações familiares, autenticidade, ação, presença em eventos esportivos",106,alto,Familiar
@@ -544,7 +544,7 @@
 7ad7c40e-3b8b-4f31-9c71-2fe7b5a2921f,3/4/2025,Journaling,Nada,Não,Neutro,Não,Normal,Positiva,Trabalho,Atividade Física e Descanso,106,alto,Saúde
 7ad7c40e-3b8b-4f31-9c71-2fe7b5a2921f,3/5/2025,Journaling,Nada,Não,Neutro,Não,Normal,Positiva,Trabalho,Encontro social com amigos,106,alto,Amizade
 7ad7c40e-3b8b-4f31-9c71-2fe7b5a2921f,3/6/2025,Journaling,Nada,Não,Neutro,Não,Curto,Negativa,Familiar,Sentimento de estar para baixo sem motivo específico identificado,106,alto,Depressão
-7ad7c40e-3b8b-4f31-9c71-2fe7b5a2921f,3/7/2025,Journaling,Pouco,Não,Neutro,Não,Normal,,Sem informação,Outros,106,alto,Outros
+7ad7c40e-3b8b-4f31-9c71-2fe7b5a2921f,3/7/2025,Journaling,Pouco,Não,Neutro,Não,Normal,,Outros,Outros,106,alto,Outros
 7ad7c40e-3b8b-4f31-9c71-2fe7b5a2921f,3/8/2025,Journaling,Pouco,Não,Neutro,Não,Longo,Positiva,Familiar,"Atividades físicas, Trabalho, Família, Eventos sociais, Datas comemorativas",106,alto,Familiar
 7ad7c40e-3b8b-4f31-9c71-2fe7b5a2921f,3/9/2025,Journaling,Pouco,Não,Neutro,Não,Normal,,Familiar,Problemas na Familia,106,alto,Familiar
 7ad7c40e-3b8b-4f31-9c71-2fe7b5a2921f,3/10/2025,Journaling,Nada,Não,Neutro,Não,Normal,Positiva,Autoconhecimento,Felicidade diária,106,alto,Autoconhecimento
@@ -566,7 +566,7 @@
 7ad7c40e-3b8b-4f31-9c71-2fe7b5a2921f,4/4/2025,Journaling,Pouco,Não,Neutro,Não,Longo,Positiva,Trabalho,"Aniversário da noiva, Café com os pais, Resolução de problemas/bugs no trabalho",106,alto,Familiar
 7ad7c40e-3b8b-4f31-9c71-2fe7b5a2921f,4/5/2025,Journaling,Nada,Não,Neutro,Não,Curto,Positiva,Familiar,Sentimento de bem-estar geral,106,alto,Autoconhecimento
 7ad7c40e-3b8b-4f31-9c71-2fe7b5a2921f,4/8/2025,Journaling,Nada,Não,Neutro,Não,Curto,Positiva,Amoroso,Sentimento positivo geral,106,alto,Outros
-7ada4e1f-a200-4160-86f9-4936035122c5,3/24/2025,Journaling,Nada,Não,Neutro,Não,Normal,,Sem informação,Ansiedade,1,baixo,Outros
+7ada4e1f-a200-4160-86f9-4936035122c5,3/24/2025,Journaling,Nada,Não,Neutro,Não,Normal,,Outros,Ansiedade,1,baixo,Outros
 7ae73c86-7a90-42d4-8168-5468e16552e7,3/16/2025,Journaling,Nada,Não,Neutro,Não,Normal,Negativa,Outros,Tristeza geral sem causa específica,12,alto,Outros
 7ae73c86-7a90-42d4-8168-5468e16552e7,3/19/2025,Journaling,Pouco,Não,Elogio,Não,Normal,Neutra,Trabalho,"Acúmulo de tarefas, Falta de experiência e conhecimento no trabalho",12,alto,Trabalho
 7ae73c86-7a90-42d4-8168-5468e16552e7,3/19/2025,Journaling,Pouco,Não,Elogio,Não,Normal,Neutra,Trabalho,"Acúmulo de tarefas, Falta de experiência e conhecimento no trabalho",12,alto,Trabalho
@@ -613,7 +613,7 @@
 7d25eebd-d57d-4449-a626-f8eb4d6e756c,12/25/2024,Journaling,Nada,Não,Neutro,Não,Muito curto,,Outros,Outros,48,alto,Outros
 7d25eebd-d57d-4449-a626-f8eb4d6e756c,12/27/2024,Journaling,Nada,Não,Neutro,Não,Muito curto,Neutra,Rotina,Procrastinação,48,alto,Rotina
 7d25eebd-d57d-4449-a626-f8eb4d6e756c,12/28/2024,Journaling,Nada,Não,Neutro,Não,Muito curto,Neutra,Amoroso,Procrastinação,48,alto,Rotina
-7d25eebd-d57d-4449-a626-f8eb4d6e756c,12/29/2024,Journaling,Nada,Não,Neutro,Não,Muito curto,,Sem informação,Outros,48,alto,Outros
+7d25eebd-d57d-4449-a626-f8eb4d6e756c,12/29/2024,Journaling,Nada,Não,Neutro,Não,Muito curto,,Outros,Outros,48,alto,Outros
 7d25eebd-d57d-4449-a626-f8eb4d6e756c,12/30/2024,Journaling,Nada,Não,Neutro,Não,Muito curto,Neutra,Amoroso,Procrastinação,48,alto,Rotina
 7d25eebd-d57d-4449-a626-f8eb4d6e756c,12/31/2024,Journaling,Nada,Não,Neutro,Não,Muito curto,Neutra,Rotina,Procrastinação,48,alto,Rotina
 7d25eebd-d57d-4449-a626-f8eb4d6e756c,1/1/2025,Journaling,Nada,Não,Neutro,Não,Muito curto,Neutra,Rotina,Procrastinação,48,alto,Rotina
@@ -622,18 +622,18 @@
 7d25eebd-d57d-4449-a626-f8eb4d6e756c,1/4/2025,Journaling,Nada,Não,Neutro,Não,Muito curto,Neutra,Rotina,Procrastinação,48,alto,Rotina
 7d25eebd-d57d-4449-a626-f8eb4d6e756c,1/5/2025,Journaling,Nada,Não,Neutro,Não,Muito curto,Neutra,Rotina,Procrastinação,48,alto,Rotina
 7d25eebd-d57d-4449-a626-f8eb4d6e756c,1/6/2025,Journaling,Nada,Não,Neutro,Não,Muito curto,Neutra,Ansiedade,Procrastinação,48,alto,Rotina
-7d25eebd-d57d-4449-a626-f8eb4d6e756c,1/7/2025,Journaling,Nada,Não,Neutro,Não,Muito curto,,Sem informação,Outros,48,alto,Outros
+7d25eebd-d57d-4449-a626-f8eb4d6e756c,1/7/2025,Journaling,Nada,Não,Neutro,Não,Muito curto,,Outros,Outros,48,alto,Outros
 7d25eebd-d57d-4449-a626-f8eb4d6e756c,1/9/2025,Journaling,Nada,Não,Neutro,Não,Curto,Neutra,Rotina,Procrastinação,48,alto,Rotina
 7d25eebd-d57d-4449-a626-f8eb4d6e756c,1/10/2025,Journaling,Nada,Não,Neutro,Não,Muito curto,Neutra,Rotina,Procrastinação,48,alto,Rotina
 7d25eebd-d57d-4449-a626-f8eb4d6e756c,1/11/2025,Journaling,Nada,Não,Neutro,Não,Muito curto,Positiva,Uso Aplicativo,Motivação para journaling,48,alto,Uso Aplicativo
 7d25eebd-d57d-4449-a626-f8eb4d6e756c,1/12/2025,Journaling,Nada,Não,Elogio,Não,Muito curto,Positiva,Uso Aplicativo,Escolha de template para journaling,48,alto,Uso Aplicativo
 7d25eebd-d57d-4449-a626-f8eb4d6e756c,1/14/2025,Journaling,Nada,Não,Neutro,Não,Muito curto,,Outros,Outros,48,alto,Outros
-7d25eebd-d57d-4449-a626-f8eb4d6e756c,1/15/2025,Journaling,Nada,Não,Neutro,Não,Muito curto,,Sem informação,Outros,48,alto,Outros
+7d25eebd-d57d-4449-a626-f8eb4d6e756c,1/15/2025,Journaling,Nada,Não,Neutro,Não,Muito curto,,Outros,Outros,48,alto,Outros
 7d25eebd-d57d-4449-a626-f8eb4d6e756c,1/16/2025,Journaling,Nada,Não,Neutro,Não,Muito curto,Neutra,Rotina,Procrastinação,48,alto,Rotina
 7d25eebd-d57d-4449-a626-f8eb4d6e756c,1/17/2025,Journaling,Nada,Não,Neutro,Não,Muito curto,Neutra,Rotina,Procrastinação,48,alto,Rotina
 7d25eebd-d57d-4449-a626-f8eb4d6e756c,1/18/2025,Journaling,Nada,Não,Neutro,Não,Muito curto,,Outros,Outros,48,alto,Outros
-7d25eebd-d57d-4449-a626-f8eb4d6e756c,1/19/2025,Journaling,Nada,Não,Neutro,Não,Muito curto,,Sem informação,Outros,48,alto,Outros
-7d25eebd-d57d-4449-a626-f8eb4d6e756c,1/20/2025,Journaling,Nada,Não,Neutro,Não,Muito curto,,Sem informação,Outros,48,alto,Outros
+7d25eebd-d57d-4449-a626-f8eb4d6e756c,1/19/2025,Journaling,Nada,Não,Neutro,Não,Muito curto,,Outros,Outros,48,alto,Outros
+7d25eebd-d57d-4449-a626-f8eb4d6e756c,1/20/2025,Journaling,Nada,Não,Neutro,Não,Muito curto,,Outros,Outros,48,alto,Outros
 7d25eebd-d57d-4449-a626-f8eb4d6e756c,1/21/2025,Journaling,Nada,Não,Neutro,Não,Muito curto,,Outros,Outros,48,alto,Outros
 7d25eebd-d57d-4449-a626-f8eb4d6e756c,1/22/2025,Journaling,Nada,Não,Neutro,Não,Muito curto,Neutra,Rotina,Procrastinação,48,alto,Rotina
 7d25eebd-d57d-4449-a626-f8eb4d6e756c,1/24/2025,Journaling,Nada,Não,Neutro,Não,Muito curto,Neutra,Rotina,Procrastinação,48,alto,Rotina
@@ -645,13 +645,13 @@
 7d25eebd-d57d-4449-a626-f8eb4d6e756c,2/1/2025,Journaling,Nada,Não,Neutro,Não,Muito curto,Neutra,Rotina,Procrastinação,48,alto,Rotina
 7d25eebd-d57d-4449-a626-f8eb4d6e756c,2/2/2025,Journaling,Nada,Não,Neutro,Não,Muito curto,,Amoroso,Outros,48,alto,Outros
 7d25eebd-d57d-4449-a626-f8eb4d6e756c,2/3/2025,Journaling,Nada,Não,Neutro,Não,Muito curto,Neutra,Rotina,Procrastinação,48,alto,Rotina
-7d25eebd-d57d-4449-a626-f8eb4d6e756c,2/5/2025,Journaling,Nada,Não,Neutro,Não,Muito curto,,Sem informação,Outros,48,alto,Outros
+7d25eebd-d57d-4449-a626-f8eb4d6e756c,2/5/2025,Journaling,Nada,Não,Neutro,Não,Muito curto,,Outros,Outros,48,alto,Outros
 7d25eebd-d57d-4449-a626-f8eb4d6e756c,2/6/2025,Journaling,Nada,Não,Neutro,Não,Muito curto,Neutra,Trabalho,Procrastinação,48,alto,Rotina
 7d25eebd-d57d-4449-a626-f8eb4d6e756c,2/7/2025,Journaling,Nada,Não,Neutro,Não,Muito curto,,Outros,Outros,48,alto,Outros
 7d25eebd-d57d-4449-a626-f8eb4d6e756c,2/8/2025,Journaling,Nada,Não,Neutro,Não,Muito curto,,Outros,Outros,48,alto,Outros
 7d25eebd-d57d-4449-a626-f8eb4d6e756c,2/9/2025,Journaling,Nada,Não,Neutro,Não,Muito curto,,Familiar,Outros,48,alto,Outros
 7d25eebd-d57d-4449-a626-f8eb4d6e756c,2/10/2025,Journaling,Nada,Não,Neutro,Não,Muito curto,Neutra,Rotina,Procrastinação,48,alto,Rotina
-7d25eebd-d57d-4449-a626-f8eb4d6e756c,2/11/2025,Journaling,Nada,Não,Neutro,Não,Muito curto,,Sem informação,Outros,48,alto,Outros
+7d25eebd-d57d-4449-a626-f8eb4d6e756c,2/11/2025,Journaling,Nada,Não,Neutro,Não,Muito curto,,Outros,Outros,48,alto,Outros
 8086910d-ae84-4924-ae16-5b5850bd09ab,3/29/2025,Journaling,Pouco,Não,Elogio,Não,Longo,Neutra,Trabalho,Insegurança e necessidade de atenção,2,baixo,Outros
 8086910d-ae84-4924-ae16-5b5850bd09ab,3/29/2025,Journaling,Pouco,Não,Elogio,Não,Longo,Neutra,Familiar,Insegurança e necessidade de atenção,2,baixo,Outros
 8086910d-ae84-4924-ae16-5b5850bd09ab,3/30/2025,Desabafo,Nada,Não,Neutro,Não,Normal,,Familiar,"Relacionamento Amoroso, Problemas no Trabalho",2,baixo,Amoroso
@@ -672,7 +672,7 @@
 885c182d-599a-45bd-8008-bb0c2da1a1a4,3/31/2025,Journaling,Nada,Não,Neutro,Não,Muito curto,Neutra,Outros,Mensagem automática sem interação real,12,alto,Outros
 885c182d-599a-45bd-8008-bb0c2da1a1a4,4/1/2025,Journaling,Nada,Não,Neutro,Não,Muito curto,Neutra,Uso Aplicativo,Check-in emocional indisponível no momento,12,alto,Uso Aplicativo
 885c182d-599a-45bd-8008-bb0c2da1a1a4,4/2/2025,Journaling,Nada,Não,Neutro,Não,Muito curto,,Ansiedade,Outros,12,alto,Outros
-885c182d-599a-45bd-8008-bb0c2da1a1a4,4/3/2025,Journaling,Nada,Não,Neutro,Não,Muito curto,,Sem informação,Outros,12,alto,Outros
+885c182d-599a-45bd-8008-bb0c2da1a1a4,4/3/2025,Journaling,Nada,Não,Neutro,Não,Muito curto,,Outros,Outros,12,alto,Outros
 885c182d-599a-45bd-8008-bb0c2da1a1a4,4/4/2025,Journaling,Nada,Não,Neutro,Não,Muito curto,,Outros,Outros,12,alto,Outros
 885c182d-599a-45bd-8008-bb0c2da1a1a4,4/5/2025,Journaling,Nada,Não,Neutro,Não,Muito curto,Neutra,Uso Aplicativo,Resposta automática do sistema,12,alto,Uso Aplicativo
 885c182d-599a-45bd-8008-bb0c2da1a1a4,4/7/2025,Journaling,Nada,Não,Neutro,Não,Muito curto,,Trabalho,Outros,12,alto,Outros
@@ -691,7 +691,7 @@
 8f68fa1d-1f07-4f7b-b2c6-f70a6a3624fe,3/13/2025,Desabafo,Pouco,Não,Elogio,Não,Longo,Neutra,Familiar,Intimidade e Insegurança,2,baixo,Outros
 8f68fa1d-1f07-4f7b-b2c6-f70a6a3624fe,3/13/2025,Desabafo,Pouco,Não,Elogio,Não,Longo,Neutra,Trabalho,Intimidade e Insegurança,2,baixo,Outros
 8f68fa1d-1f07-4f7b-b2c6-f70a6a3624fe,3/15/2025,Journaling,Muito,Não,Elogio,Não,Normal,,Amoroso,Relacionamento Amoroso,2,baixo,Amoroso
-8f7eac24-4f4e-4dd1-be92-3ca5e966eaa4,3/18/2025,Journaling,Nada,Não,Neutro,Não,Curto,,Sem informação,Outros,1,baixo,Outros
+8f7eac24-4f4e-4dd1-be92-3ca5e966eaa4,3/18/2025,Journaling,Nada,Não,Neutro,Não,Curto,,Outros,Outros,1,baixo,Outros
 90bc2274-d2e5-48ab-9799-c22c979c9c55,3/28/2025,Journaling,Pouco,Não,Elogio,Sim,Longo,Neutra,Ansiedade,"Desânimo e desvalorização profissional, Cansaço mental e emocional",4,médio,Trabalho
 90bc2274-d2e5-48ab-9799-c22c979c9c55,3/30/2025,Journaling,Nada,Não,Neutro,Não,Muito curto,Neutra,Uso Aplicativo,Início de conversa,4,médio,Uso Aplicativo
 90bc2274-d2e5-48ab-9799-c22c979c9c55,4/3/2025,Journaling,Muito,Não,Neutro,Não,Normal,Positiva,Trabalho,Produtividade e Planejamento no Trabalho,4,médio,Trabalho
@@ -713,13 +713,13 @@
 94caae28-c335-4105-b050-68e2f98d8f16,3/27/2025,Journaling,Pouco,Não,Neutro,Não,Longo,Neutra,Amoroso,Autoestima e Desenvolvimento Pessoal,1,baixo,Outros
 94e1276f-0d7c-40f7-817a-d24224288004,3/14/2025,Journaling,Nada,Não,Neutro,Não,Normal,Positiva,Ansiedade,Introdução ao uso da plataforma Dailydots,6,alto,Uso Aplicativo
 94e1276f-0d7c-40f7-817a-d24224288004,3/17/2025,Journaling,Nada,Não,Neutro,Não,Muito curto,Neutra,Trabalho,Nenhum específico,6,alto,Outros
-94e1276f-0d7c-40f7-817a-d24224288004,3/20/2025,Journaling,Nada,Não,Neutro,Não,Muito curto,Neutra,Sem informação,Nenhum específico,6,alto,Outros
+94e1276f-0d7c-40f7-817a-d24224288004,3/20/2025,Journaling,Nada,Não,Neutro,Não,Muito curto,Neutra,Outros,Nenhum específico,6,alto,Outros
 94e1276f-0d7c-40f7-817a-d24224288004,3/21/2025,Journaling,Nada,Não,Neutro,Não,Muito curto,Neutra,Amoroso,Nenhum específico,6,alto,Outros
 94e1276f-0d7c-40f7-817a-d24224288004,3/25/2025,Journaling,Nada,Não,Neutro,Não,Muito curto,Neutra,Outros,Nenhum específico,6,alto,Outros
 94e1276f-0d7c-40f7-817a-d24224288004,3/26/2025,Journaling,Nada,Não,Neutro,Não,Muito curto,Positiva,Rotina,Despedida e planejamento para retorno futuro,6,alto,Rotina
-9501c24e-7f6e-4f4a-a1c8-8736091cd78f,4/3/2025,,,,,,,,Sem informação,,5,médio,Outros
-9501c24e-7f6e-4f4a-a1c8-8736091cd78f,3/28/2025,Journaling,Pouco,Não,Neutro,Sim,Normal,Neutra,Sem informação,Metas e auto-capacitação,5,médio,Outros
-9501c24e-7f6e-4f4a-a1c8-8736091cd78f,3/30/2025,Journaling,Nada,Não,Neutro,Não,Muito curto,,Sem informação,Outros,5,médio,Outros
+9501c24e-7f6e-4f4a-a1c8-8736091cd78f,4/3/2025,,,,,,,,Outros,,5,médio,Outros
+9501c24e-7f6e-4f4a-a1c8-8736091cd78f,3/28/2025,Journaling,Pouco,Não,Neutro,Sim,Normal,Neutra,Outros,Metas e auto-capacitação,5,médio,Outros
+9501c24e-7f6e-4f4a-a1c8-8736091cd78f,3/30/2025,Journaling,Nada,Não,Neutro,Não,Muito curto,,Outros,Outros,5,médio,Outros
 9501c24e-7f6e-4f4a-a1c8-8736091cd78f,3/31/2025,Journaling,Nada,Não,Elogio,Não,Normal,Positiva,Amoroso,Autoconhecimento e Reflexão Diária,5,médio,Autoconhecimento
 9501c24e-7f6e-4f4a-a1c8-8736091cd78f,3/31/2025,Journaling,Nada,Não,Elogio,Não,Normal,Positiva,Financeiros,Autoconhecimento e Reflexão Diária,5,médio,Autoconhecimento
 9501c24e-7f6e-4f4a-a1c8-8736091cd78f,4/1/2025,Journaling,Nada,Não,Neutro,Não,Curto,Positiva,Familiar,Nenhum específico,5,médio,Outros
@@ -739,7 +739,7 @@
 9ab879fe-2c03-4198-bdd2-f314f57240a1,3/29/2025,Desabafo,Muito,Não,Neutro,Não,Longo,Negativa,Familiar,"Conflito com filho sobre cuidados com a neta, Dinâmica familiar com a mãe, Limites pessoais e responsabilidades",8,alto,Familiar
 9ab879fe-2c03-4198-bdd2-f314f57240a1,3/30/2025,Journaling,Muito,Não,Neutro,Não,Longo,Neutra,Familiar,"Responsabilidade familiar, Cansaço no trabalho",8,alto,Familiar
 9ab879fe-2c03-4198-bdd2-f314f57240a1,3/30/2025,Journaling,Muito,Não,Neutro,Não,Longo,Neutra,Familiar,"Responsabilidade familiar, Cansaço no trabalho",8,alto,Familiar
-9ab879fe-2c03-4198-bdd2-f314f57240a1,3/31/2025,Journaling,Nada,Não,Neutro,Não,Muito curto,Neutra,Sem informação,Sentimento inicial do usuário,8,alto,Outros
+9ab879fe-2c03-4198-bdd2-f314f57240a1,3/31/2025,Journaling,Nada,Não,Neutro,Não,Muito curto,Neutra,Outros,Sentimento inicial do usuário,8,alto,Outros
 9ab879fe-2c03-4198-bdd2-f314f57240a1,4/1/2025,Desabafo,Nada,Não,Neutro,Sim,Curto,,Amizade,Outros,8,alto,Outros
 9ab879fe-2c03-4198-bdd2-f314f57240a1,4/2/2025,Desabafo,Pouco,Não,Neutro,Não,Normal,Negativa,Familiar,Uso de medicação para ansiedade,8,alto,Outros
 9ab879fe-2c03-4198-bdd2-f314f57240a1,4/3/2025,Desabafo,Nada,Não,Neutro,Sim,Curto,,Familiar,Outros,8,alto,Outros
@@ -784,7 +784,7 @@ a126f9d8-b8f1-4d3f-8fc5-7baa6dc92b4a,3/18/2025,Journaling,Muito,Não,Neutro,Não
 a126f9d8-b8f1-4d3f-8fc5-7baa6dc92b4a,3/19/2025,Desabafo,Pouco,Não,Neutro,Não,Longo,Negativa,Amoroso,Interpretação errada e falta de atenção,8,alto,Outros
 a126f9d8-b8f1-4d3f-8fc5-7baa6dc92b4a,3/23/2025,Journaling,Muito,Não,Elogio,Não,Longo,Neutra,Amoroso,Doença e Recuperação,8,alto,Saúde
 a126f9d8-b8f1-4d3f-8fc5-7baa6dc92b4a,3/24/2025,Desabafo,Pouco,Não,Neutro,Não,Longo,Negativa,Amoroso,Falta de apoio do esposo na alimentação e cuidados durante a doença,8,alto,Amoroso
-a208b5bc-b8f1-4e53-9897-562cd2c6ee22,4/7/2025,Journaling,Nada,Não,Neutro,Não,Muito curto,,Sem informação,Outros,1,baixo,Outros
+a208b5bc-b8f1-4e53-9897-562cd2c6ee22,4/7/2025,Journaling,Nada,Não,Neutro,Não,Muito curto,,Outros,Outros,1,baixo,Outros
 a459cae4-19ec-4b93-b51e-dc07ad825d11,3/29/2025,Journaling,Muito,Não,Elogio,Não,Longo,Positiva,Amoroso,"Gatilhos de ansiedade, Atividades de alívio, Uso de ayahuasca, Criação de arte, Cozinhar, Sentimento de solidão, Dores físicas, Sentimento de inutilidade, Interação com IA",8,alto,Amizade
 a459cae4-19ec-4b93-b51e-dc07ad825d11,3/30/2025,Desabafo,Muito,Não,Neutro,Sim,Longo,Negativa,Rotina,Impacto emocional de um relacionamento abusivo e dificuldades em realizar tarefas diárias devido ao estado emocional.,8,alto,Rotina
 a459cae4-19ec-4b93-b51e-dc07ad825d11,3/31/2025,Desabafo,Pouco,Não,Neutro,Não,Longo,Negativa,Trabalho,Sentimento de estar perdido e sem rumo,8,alto,Outros
@@ -801,7 +801,7 @@ a57fcc48-3b04-407f-86fa-6d70f7cc6177,3/26/2025,Journaling,Pouco,Não,Elogio,Não
 a57fcc48-3b04-407f-86fa-6d70f7cc6177,3/27/2025,Desabafo,Pouco,Não,Neutro,Não,Longo,Neutra,Amoroso,Luto e Memórias de um ente querido falecido,7,alto,Familiar
 a57fcc48-3b04-407f-86fa-6d70f7cc6177,3/28/2025,Journaling,Muito,Não,Elogio,Não,Normal,Positiva,Amoroso,Empoderamento e Coragem,7,alto,Outros
 a57fcc48-3b04-407f-86fa-6d70f7cc6177,3/29/2025,Journaling,Muito,Não,Neutro,Não,Longo,Neutra,Familiar,"Saudade, Valorização do presente, Conexões familiares e sociais",7,alto,Familiar
-a57fcc48-3b04-407f-86fa-6d70f7cc6177,3/30/2025,Journaling,Nada,Não,Neutro,Não,Muito curto,Neutra,Sem informação,Nenhum específico,7,alto,Outros
+a57fcc48-3b04-407f-86fa-6d70f7cc6177,3/30/2025,Journaling,Nada,Não,Neutro,Não,Muito curto,Neutra,Outros,Nenhum específico,7,alto,Outros
 a57fcc48-3b04-407f-86fa-6d70f7cc6177,4/6/2025,Desabafo,Pouco,Não,Neutro,Não,Normal,Negativa,Amizade,Filho dependente químico e recaída,7,alto,Familiar
 a5c8006f-2fad-4032-8ad2-6d37f1108310,3/20/2025,Desabafo,Pouco,Não,Elogio,Não,Longo,Negativa,Amizade,"Conflito com a mãe, sentimento de desvalorização e falta de afeto",1,baixo,Amoroso
 a70a0767-484f-43b9-9a6f-95083d0c5bc3,3/26/2025,Journaling,Nada,Não,Neutro,Não,Muito curto,Neutra,Uso Aplicativo,Introdução ao uso do Dailydots,4,médio,Uso Aplicativo
@@ -827,7 +827,7 @@ b037a5b7-4e85-4d25-a3ae-ed40f89cd8f6,3/16/2025,Journaling,Muito,Não,Elogio,Não
 b037a5b7-4e85-4d25-a3ae-ed40f89cd8f6,3/16/2025,Journaling,Muito,Não,Elogio,Não,Longo,Positiva,Familiar,"Desentendimento com irmã, Trabalho no domingo",6,alto,Familiar
 b037a5b7-4e85-4d25-a3ae-ed40f89cd8f6,3/19/2025,Journaling,Pouco,Não,Neutro,Não,Normal,Positiva,Familiar,Estudo e planejamento de vida,6,alto,Rotina
 b037a5b7-4e85-4d25-a3ae-ed40f89cd8f6,3/20/2025,Journaling,Muito,Não,Elogio,Não,Longo,Positiva,Rotina,Mudança de rotina e preparação para simulado,6,alto,Rotina
-b037a5b7-4e85-4d25-a3ae-ed40f89cd8f6,3/25/2025,Journaling,Nada,Não,Neutro,Não,Muito curto,Neutra,Sem informação,Nenhum específico,6,alto,Outros
+b037a5b7-4e85-4d25-a3ae-ed40f89cd8f6,3/25/2025,Journaling,Nada,Não,Neutro,Não,Muito curto,Neutra,Outros,Nenhum específico,6,alto,Outros
 b037a5b7-4e85-4d25-a3ae-ed40f89cd8f6,3/31/2025,Journaling,Muito,Não,Neutro,Não,Normal,Neutra,Amoroso,"Memórias com a mãe, Atividades diárias, Cansaço",6,alto,Familiar
 b037a5b7-4e85-4d25-a3ae-ed40f89cd8f6,4/3/2025,Journaling,Nada,Não,Neutro,Não,Muito curto,Neutra,Amoroso,Nenhum específico,6,alto,Outros
 b0f13507-2c8d-43c1-8d69-03dfdad31a65,3/27/2025,Journaling,Pouco,Não,Elogio,Não,Normal,,Outros,Outros,1,baixo,Outros
@@ -842,13 +842,13 @@ b288c5f8-7a92-4610-b1fe-e1817d2f9ed2,3/27/2025,Journaling,Pouco,Não,Elogio,Não
 b3d83260-5736-458e-92aa-4a3068bef9e7,4/2/2025,Journaling,Muito,Não,Neutro,Não,Longo,Neutra,Amoroso,"Namoro à distância, Incertezas emocionais, Crise de ansiedade",1,baixo,Amoroso
 b44f367b-dd61-4e88-a614-e353fa79d8c9,3/13/2025,Journaling,Pouco,Não,Elogio,Não,Longo,Positiva,Amoroso,Confusão nos sentimentos em relacionamentos,3,médio,Outros
 b44f367b-dd61-4e88-a614-e353fa79d8c9,3/14/2025,Journaling,Nada,Não,Neutro,Não,Muito curto,,Amoroso,Outros,3,médio,Outros
-b44f367b-dd61-4e88-a614-e353fa79d8c9,3/15/2025,Desabafo,Nada,Não,Neutro,Não,Normal,,Sem informação,Outros,3,médio,Outros
+b44f367b-dd61-4e88-a614-e353fa79d8c9,3/15/2025,Desabafo,Nada,Não,Neutro,Não,Normal,,Outros,Outros,3,médio,Outros
 b64e8a6b-ccfe-4e45-9e9e-df485ef68e0d,3/28/2025,Journaling,Pouco,Não,Neutro,Não,Longo,Negativa,Amoroso,Divórcio,1,baixo,Amoroso
 b88acc9d-91f4-42af-86f9-594b72865fd5,2/2/2025,Journaling,Nada,Não,Neutro,Não,Muito curto,,Familiar,Outros,1,baixo,Outros
 b8e575c1-7698-4a32-a38c-a8e20a3be496,3/13/2025,Desabafo,Pouco,Não,Neutro,Sim,Longo,Neutra,Trabalho,Monotonia e Falta de Motivação no Trabalho,1,baixo,Trabalho
 ba41fe89-9549-4abb-b28f-8ab7c43f6b50,3/25/2025,Desabafo,Muito,Não,Neutro,Não,Longo,Negativa,Financeiros,"Crise em relacionamento de longa duração, Traição financeira, Sentimentos de desvalorização e traição",3,médio,Financeiros
 ba41fe89-9549-4abb-b28f-8ab7c43f6b50,3/27/2025,Reflexão Profunda,Muito,Não,Neutro,Sim,Longo,Neutra,Trabalho,"Comunicação no relacionamento, Unidade e interconexão universal",3,médio,Outros
-ba41fe89-9549-4abb-b28f-8ab7c43f6b50,3/28/2025,Reflexão Profunda,Muito,Não,Neutro,Não,Normal,Positiva,Sem informação,Unidade e Perdão,3,médio,Outros
+ba41fe89-9549-4abb-b28f-8ab7c43f6b50,3/28/2025,Reflexão Profunda,Muito,Não,Neutro,Não,Normal,Positiva,Outros,Unidade e Perdão,3,médio,Outros
 bd3a45dc-148f-4967-b49b-79021a395fbd,3/25/2025,Journaling,Pouco,Não,Neutro,Não,Longo,Neutra,Autoconhecimento,Sentimento de insuficiência pessoal e autoavaliação negativa.,13,alto,Autoconhecimento
 bd3a45dc-148f-4967-b49b-79021a395fbd,3/26/2025,Reflexão Profunda,Muito,Não,Elogio,Sim,Longo,Positiva,Outros,"Comunicação e Inspiração, Ciência e Biologia, Desenvolvimento Pessoal",13,alto,Outros
 bd3a45dc-148f-4967-b49b-79021a395fbd,3/27/2025,Desabafo,Muito,Não,Neutro,Não,Longo,Negativa,Acadêmicos,"Vergonha de realizar tarefa, Sentimento de não ser importante, Busca por aprovação dos outros",13,alto,Acadêmicos
@@ -862,14 +862,14 @@ bd3a45dc-148f-4967-b49b-79021a395fbd,4/4/2025,Desabafo,Nada,Não,Neutro,Não,Cur
 bd3a45dc-148f-4967-b49b-79021a395fbd,4/6/2025,Desabafo,Pouco,Não,Neutro,Não,Normal,,Amizade,Relacionamento Amizade,13,alto,Amizade
 bd3a45dc-148f-4967-b49b-79021a395fbd,4/7/2025,Journaling,Pouco,Não,Neutro,Não,Normal,Positiva,Ansiedade,Início de amizade na faculdade,13,alto,Amizade
 bd3a45dc-148f-4967-b49b-79021a395fbd,4/8/2025,Desabafo,Pouco,Não,Elogio,Não,Normal,Positiva,Amizade,Insegurança sobre nova amizade,13,alto,Amizade
-bd4a59cb-23e8-4ba3-8f82-0503c344f4fc,3/21/2025,,,,,,,,Sem informação,,2,baixo,Outros
+bd4a59cb-23e8-4ba3-8f82-0503c344f4fc,3/21/2025,,,,,,,,Outros,,2,baixo,Outros
 bd4a59cb-23e8-4ba3-8f82-0503c344f4fc,3/18/2025,Desabafo,Nada,Não,Neutro,Não,Longo,Neutra,Amoroso,Dúvidas sobre o funcionamento e segurança do Dailydots,2,baixo,Uso Aplicativo
 bdcbfc6e-1260-4251-9916-3b901e49f071,3/17/2025,Journaling,Nada,Não,Neutro,Não,Normal,Positiva,Amoroso,Introdução ao uso do Dailydots e curiosidade sobre hipnoterapia,6,alto,Uso Aplicativo
 bdcbfc6e-1260-4251-9916-3b901e49f071,3/18/2025,Journaling,Nada,Não,Neutro,Não,Curto,Neutra,Amoroso,Hipnoterapia e saúde emocional,6,alto,Saúde
 bdcbfc6e-1260-4251-9916-3b901e49f071,3/19/2025,Journaling,Nada,Não,Neutro,Não,Curto,Neutra,Uso Aplicativo,Introdução ao serviço de hipnoterapia,6,alto,Uso Aplicativo
 bdcbfc6e-1260-4251-9916-3b901e49f071,3/21/2025,Journaling,Nada,Não,Neutro,Não,Normal,Neutra,Amoroso,Sentimento de estar para baixo sem especificar motivo,6,alto,Outros
 bdcbfc6e-1260-4251-9916-3b901e49f071,3/22/2025,Journaling,Nada,Não,Neutro,Não,Muito curto,Neutra,Amoroso,Hipnoterapia e saúde emocional,6,alto,Saúde
-bdcbfc6e-1260-4251-9916-3b901e49f071,3/29/2025,Journaling,Nada,Não,Neutro,Não,Muito curto,Neutra,Sem informação,Nenhum específico,6,alto,Outros
+bdcbfc6e-1260-4251-9916-3b901e49f071,3/29/2025,Journaling,Nada,Não,Neutro,Não,Muito curto,Neutra,Outros,Nenhum específico,6,alto,Outros
 bfe420b4-0aea-4027-8814-770addceced3,3/15/2025,Journaling,Pouco,Não,Elogio,Não,Longo,Neutra,Familiar,Emoções confusas e persistentes,1,baixo,Familiar
 c1273380-5f78-46e5-a107-ae73dc4831ba,3/29/2025,Desabafo,Muito,Não,Neutro,Não,Longo,Negativa,Ansiedade,"Sentimento de exclusão e solidão, busca por reconhecimento e pertencimento.",6,alto,Amizade
 c1273380-5f78-46e5-a107-ae73dc4831ba,3/30/2025,Journaling,Muito,Não,Neutro,Sim,Longo,Neutra,Familiar,Estresse e bem-estar durante o período menstrual e sedentarismo,6,alto,Autoconhecimento
@@ -880,13 +880,13 @@ c1273380-5f78-46e5-a107-ae73dc4831ba,4/2/2025,Journaling,Pouco,Não,Neutro,Não,
 c1273380-5f78-46e5-a107-ae73dc4831ba,4/5/2025,Journaling,Muito,Não,Neutro,Não,Longo,Neutra,Amoroso,Ansiedade com apresentação no trabalho,6,alto,Trabalho
 c1b32ef7-ce76-404e-b73a-939b1e4cba6e,3/22/2025,Journaling,Nada,Não,Elogio,Não,Muito curto,,Amoroso,Outros,1,baixo,Outros
 c27b786e-b26c-401c-a237-7913c9e8c155,3/15/2025,Journaling,Pouco,Não,Elogio,Não,Longo,Positiva,Outros,Confusão/Indecisão sobre a vida,1,baixo,Outros
-c380becf-33f7-485d-a75e-2ed57db263c8,3/16/2025,Journaling,Pouco,Não,Elogio,Não,Longo,Neutra,Sem informação,Confusão sobre atitudes e dificuldade em fechar ciclos,1,baixo,Outros
+c380becf-33f7-485d-a75e-2ed57db263c8,3/16/2025,Journaling,Pouco,Não,Elogio,Não,Longo,Neutra,Outros,Confusão sobre atitudes e dificuldade em fechar ciclos,1,baixo,Outros
 c3ecceae-8ee0-47ee-9872-8a6d28fd5af8,3/26/2025,,,,,,,,Outros,,16,alto,Outros
 c3ecceae-8ee0-47ee-9872-8a6d28fd5af8,4/6/2025,,,,,,,,Amoroso,,16,alto,Outros
 c3ecceae-8ee0-47ee-9872-8a6d28fd5af8,3/21/2025,Journaling,Pouco,Não,Neutro,Não,Longo,Negativa,Saúde,"Preocupação com saúde de pessoa querida, Falta de recursos financeiros para ajudar",16,alto,Saúde
 c3ecceae-8ee0-47ee-9872-8a6d28fd5af8,3/22/2025,Journaling,Pouco,Não,Neutro,Não,Normal,Positiva,Financeiros,Conquista financeira,16,alto,Financeiros
 c3ecceae-8ee0-47ee-9872-8a6d28fd5af8,3/23/2025,Desabafo,Pouco,Não,Neutro,Não,Longo,,Amoroso,Relacionamento Amoroso,16,alto,Amoroso
-c3ecceae-8ee0-47ee-9872-8a6d28fd5af8,3/24/2025,Desabafo,Pouco,Não,Neutro,Não,Longo,Neutra,Sem informação,Timidez e dificuldade de expressão em relacionamentos amorosos,16,alto,Outros
+c3ecceae-8ee0-47ee-9872-8a6d28fd5af8,3/24/2025,Desabafo,Pouco,Não,Neutro,Não,Longo,Neutra,Outros,Timidez e dificuldade de expressão em relacionamentos amorosos,16,alto,Outros
 c3ecceae-8ee0-47ee-9872-8a6d28fd5af8,3/25/2025,Desabafo,Muito,Não,Neutro,Não,Longo,Negativa,Amoroso,Infidelidade e Conflito Emocional com Ex-namorada e Família,16,alto,Amoroso
 c3ecceae-8ee0-47ee-9872-8a6d28fd5af8,3/27/2025,Desabafo,Nada,Não,Neutro,Não,Curto,Negativa,Outros,Emoções misturadas,16,alto,Outros
 c3ecceae-8ee0-47ee-9872-8a6d28fd5af8,3/28/2025,Desabafo,Nada,Não,Neutro,Não,Curto,Negativa,Depressão,Dia ruim,16,alto,Outros
@@ -899,7 +899,7 @@ c3ecceae-8ee0-47ee-9872-8a6d28fd5af8,4/3/2025,Desabafo,Pouco,Não,Neutro,Não,Lo
 c3ecceae-8ee0-47ee-9872-8a6d28fd5af8,4/3/2025,Desabafo,Pouco,Não,Neutro,Não,Longo,Negativa,Amoroso,"Saúde da esposa, Dificuldade em deixar ex-namorada, Dificuldades financeiras",16,alto,Amoroso
 c3ecceae-8ee0-47ee-9872-8a6d28fd5af8,4/4/2025,Journaling,Pouco,Não,Neutro,Não,Curto,Positiva,Familiar,Reflexão diária concluída,16,alto,Autoconhecimento
 c3ecceae-8ee0-47ee-9872-8a6d28fd5af8,4/5/2025,Desabafo,Pouco,Não,Neutro,Não,Normal,Negativa,Amoroso,"Dilema amoroso entre duas pessoas, Gravidez da esposa",16,alto,Amoroso
-c3ecceae-8ee0-47ee-9872-8a6d28fd5af8,4/7/2025,Desabafo,Pouco,Não,Neutro,Não,Normal,Negativa,Sem informação,Dificuldade em terminar relacionamento e indecisão sobre o futuro,16,alto,Outros
+c3ecceae-8ee0-47ee-9872-8a6d28fd5af8,4/7/2025,Desabafo,Pouco,Não,Neutro,Não,Normal,Negativa,Outros,Dificuldade em terminar relacionamento e indecisão sobre o futuro,16,alto,Outros
 c59a8b6b-272d-46f6-8ef9-41ec9588eb64,4/3/2025,Journaling,Nada,Não,Neutro,Não,Muito curto,,Amoroso,Outros,5,médio,Outros
 c59a8b6b-272d-46f6-8ef9-41ec9588eb64,4/4/2025,Desabafo,Pouco,Não,Neutro,Não,Longo,Negativa,Ansiedade,"Cansaço, Mal-estar, Alucinações, Ansiedade, Diagnóstico psicológico, Emoções congeladas, Gratidão",5,médio,Rotina
 c59a8b6b-272d-46f6-8ef9-41ec9588eb64,4/5/2025,Desabafo,Pouco,Não,Neutro,Sim,Normal,Negativa,Acadêmico,"Abandono Materno, Luto Ambíguo",5,médio,Familiar
@@ -907,13 +907,13 @@ c59a8b6b-272d-46f6-8ef9-41ec9588eb64,4/5/2025,Desabafo,Pouco,Não,Neutro,Sim,Nor
 c59a8b6b-272d-46f6-8ef9-41ec9588eb64,4/7/2025,Desabafo,Nada,Não,Neutro,Não,Normal,Negativa,Ansiedade,Tristeza,5,médio,Outros
 c59a8b6b-272d-46f6-8ef9-41ec9588eb64,4/2/2025,Desabafo,Pouco,Sim,Elogio,Não,Longo,Negativa,Amizade,"Alucinações, Histórico de trauma, Cansaço",5,médio,Rotina
 c5af36bd-e36f-4811-9d08-f129ead987d9,11/8/2024,Journaling,Muito,Não,Neutro,Não,Longo,Positiva,Trabalho,"Progresso e Realizações no Trabalho, Aprendizados Acadêmicos, Importância das Cooperativas de Crédito no Brasil",6,alto,Trabalho
-c5af36bd-e36f-4811-9d08-f129ead987d9,11/11/2024,Journaling,Muito,Não,Neutro,Não,Longo,,Sem informação,Outros,6,alto,Outros
+c5af36bd-e36f-4811-9d08-f129ead987d9,11/11/2024,Journaling,Muito,Não,Neutro,Não,Longo,,Outros,Outros,6,alto,Outros
 c5af36bd-e36f-4811-9d08-f129ead987d9,11/21/2024,Journaling,Muito,Não,Neutro,Não,Longo,Positiva,Amizade,"Aprendizado no Museu de História Natural, Evolução, Extinções em Massa, Civilizações Antigas",6,alto,Outros
 c5af36bd-e36f-4811-9d08-f129ead987d9,11/22/2024,Journaling,Nada,Não,Neutro,Não,Normal,Positiva,Amizade,Visita ao museu e aprendizado histórico e paleontológico,6,alto,Outros
 c5af36bd-e36f-4811-9d08-f129ead987d9,11/27/2024,Journaling,Nada,Não,Neutro,Não,Longo,Positiva,Amoroso,Aprendizados sobre vinicultura e produção de vinho,6,alto,Outros
-c5af36bd-e36f-4811-9d08-f129ead987d9,11/28/2024,Journaling,Nada,Não,Neutro,Não,Curto,,Sem informação,Outros,6,alto,Outros
+c5af36bd-e36f-4811-9d08-f129ead987d9,11/28/2024,Journaling,Nada,Não,Neutro,Não,Curto,,Outros,Outros,6,alto,Outros
 c62ff8b1-c75e-4d53-a79c-ee01c544c729,3/21/2025,Journaling,Nada,Não,Elogio,Não,Longo,Positiva,Amizade,Introdução ao uso do Dailydots,4,médio,Uso Aplicativo
-c62ff8b1-c75e-4d53-a79c-ee01c544c729,3/27/2025,Journaling,Nada,Não,Neutro,Não,Muito curto,,Sem informação,Outros,4,médio,Outros
+c62ff8b1-c75e-4d53-a79c-ee01c544c729,3/27/2025,Journaling,Nada,Não,Neutro,Não,Muito curto,,Outros,Outros,4,médio,Outros
 c62ff8b1-c75e-4d53-a79c-ee01c544c729,3/28/2025,Journaling,Nada,Não,Neutro,Não,Normal,Neutra,Autoconhecimento,Emoções misturadas e autoconhecimento,4,médio,Autoconhecimento
 c62ff8b1-c75e-4d53-a79c-ee01c544c729,4/2/2025,Journaling,Nada,Não,Elogio,Não,Normal,,Outros,Outros,4,médio,Outros
 c77446a0-3042-4b57-9d53-b7f5b9000318,3/16/2025,Journaling,Nada,Não,Neutro,Não,Normal,Neutra,Amoroso,Confusão/Indecisão,1,baixo,Outros
@@ -929,17 +929,17 @@ cbc736d0-840a-417b-974a-78bf8786739f,3/13/2025,Journaling,Pouco,Não,Neutro,Não
 cbc736d0-840a-417b-974a-78bf8786739f,3/13/2025,Journaling,Pouco,Não,Neutro,Não,Normal,Negativa,Amoroso,Sensação de que nada está dando certo,4,médio,Outros
 cbc736d0-840a-417b-974a-78bf8786739f,3/14/2025,Desabafo,Pouco,Não,Neutro,Sim,Longo,Negativa,Amoroso,Término e Traição,4,médio,Amoroso
 cbc736d0-840a-417b-974a-78bf8786739f,3/16/2025,Journaling,Muito,Não,Elogio,Não,Normal,Positiva,Amoroso,Reconciliação com o marido,4,médio,Outros
-cbc736d0-840a-417b-974a-78bf8786739f,3/19/2025,Journaling,Nada,Não,Neutro,Não,Muito curto,,Sem informação,Outros,4,médio,Outros
+cbc736d0-840a-417b-974a-78bf8786739f,3/19/2025,Journaling,Nada,Não,Neutro,Não,Muito curto,,Outros,Outros,4,médio,Outros
 cf359022-6b89-4b88-9c82-7ee51d1a990f,4/4/2025,Journaling,Nada,Não,Neutro,Não,Longo,Neutra,Uso Aplicativo,Curiosidade sobre a plataforma e seu funcionamento,1,baixo,Uso Aplicativo
-cf87eb09-2258-460a-85d0-4fb05218fbfb,3/17/2025,Journaling,Pouco,Não,Elogio,Sim,Normal,Neutra,Sem informação,Ansiedade diária e tensão muscular,3,médio,Outros
+cf87eb09-2258-460a-85d0-4fb05218fbfb,3/17/2025,Journaling,Pouco,Não,Elogio,Sim,Normal,Neutra,Outros,Ansiedade diária e tensão muscular,3,médio,Outros
 cf87eb09-2258-460a-85d0-4fb05218fbfb,3/18/2025,Desabafo,Pouco,Não,Neutro,Não,Normal,Negativa,Familiar,Impacto emocional e falta de foco devido a problemas em casa,3,médio,Familiar
 cf87eb09-2258-460a-85d0-4fb05218fbfb,3/19/2025,Journaling,Muito,Não,Elogio,Não,Normal,Positiva,Outros,Prática de yoga ajudando na ansiedade e melhorando o dia,3,médio,Outros
-d04502a9-0bf9-47f6-a9b2-8a0d820dddfe,3/27/2025,Journaling,Pouco,Não,Neutro,Sim,Longo,Neutra,Sem informação,Preocupação com o paradeiro do marido,3,médio,Outros
+d04502a9-0bf9-47f6-a9b2-8a0d820dddfe,3/27/2025,Journaling,Pouco,Não,Neutro,Sim,Longo,Neutra,Outros,Preocupação com o paradeiro do marido,3,médio,Outros
 d04502a9-0bf9-47f6-a9b2-8a0d820dddfe,3/30/2025,Journaling,Nada,Não,Neutro,Não,Muito curto,,Amoroso,Outros,3,médio,Outros
 d04502a9-0bf9-47f6-a9b2-8a0d820dddfe,4/1/2025,Journaling,Nada,Não,Elogio,Não,Curto,Positiva,Amoroso,Autoconhecimento,3,médio,Autoconhecimento
 d23940a4-0de2-4819-a8c3-017027584561,3/27/2025,Desabafo,Muito,Não,Neutro,Não,Longo,Negativa,Ansiedade,"Término e Traição, Confiança e Perdão, Insegurança e Dúvidas",1,baixo,Amoroso
 d4dce9a0-425f-401d-85eb-c04b4c4be768,3/17/2025,Journaling,Muito,Não,Elogio,Sim,Longo,Neutra,Depressão,"Separação, Desorganização emocional, Técnicas de relaxamento",8,alto,Amoroso
-d4dce9a0-425f-401d-85eb-c04b4c4be768,3/18/2025,Journaling,Pouco,Não,Neutro,Sim,Longo,Positiva,Sem informação,Uso excessivo do celular como distração,8,alto,Outros
+d4dce9a0-425f-401d-85eb-c04b4c4be768,3/18/2025,Journaling,Pouco,Não,Neutro,Sim,Longo,Positiva,Outros,Uso excessivo do celular como distração,8,alto,Outros
 d4dce9a0-425f-401d-85eb-c04b4c4be768,3/19/2025,Journaling,Muito,Não,Elogio,Não,Normal,,Outros,Outros,8,alto,Outros
 d4dce9a0-425f-401d-85eb-c04b4c4be768,3/22/2025,Journaling,Muito,Não,Neutro,Sim,Longo,Positiva,Outros,Autoestima e Autoconfiança,8,alto,Outros
 d4dce9a0-425f-401d-85eb-c04b4c4be768,3/25/2025,Reflexão Profunda,Muito,Não,Neutro,Não,Longo,Positiva,Amoroso,"Superação de término, perdão, autoaperfeiçoamento, meditação, PNL, auto-questionamento positivo.",8,alto,Amoroso
@@ -951,16 +951,16 @@ d59e6322-9d09-4bca-8c8a-324f6988af7f,3/28/2025,,,,,,,,Amoroso,,1,baixo,Outros
 d74f4936-4280-4d54-8126-711001bef647,4/1/2025,Journaling,Pouco,Não,Elogio,Não,Longo,Neutra,Trabalho,Cansaço e exaustão,3,médio,Trabalho
 d74f4936-4280-4d54-8126-711001bef647,4/2/2025,Journaling,Nada,Não,Neutro,Não,Normal,Neutra,Autoconhecimento,Sentimentos mistos (tristeza e felicidade),3,médio,Autoconhecimento
 d74f4936-4280-4d54-8126-711001bef647,4/3/2025,Desabafo,Pouco,Não,Neutro,Sim,Normal,Negativa,Trabalho,Tristeza persistente e confusão emocional,3,médio,Familiar
-d74f4936-4280-4d54-8126-711001bef647,4/3/2025,Desabafo,Pouco,Não,Neutro,Sim,Normal,Negativa,Autoestima,Tristeza persistente e confusão emocional,3,médio,Familiar
+d74f4936-4280-4d54-8126-711001bef647,4/3/2025,Desabafo,Pouco,Não,Neutro,Sim,Normal,Negativa,Autoconhecimento,Tristeza persistente e confusão emocional,3,médio,Familiar
 d8047cc1-608d-428a-820f-e376ce08bc55,3/14/2025,Journaling,Pouco,Não,Neutro,Não,Longo,Positiva,Familiar,"Dia tranquilo e positivo, Família, Bem-estar da irmã e filha",5,médio,Familiar
-d8047cc1-608d-428a-820f-e376ce08bc55,3/15/2025,Journaling,Nada,Não,Neutro,Não,Muito curto,Positiva,Sem informação,Despedida diária,5,médio,Outros
+d8047cc1-608d-428a-820f-e376ce08bc55,3/15/2025,Journaling,Nada,Não,Neutro,Não,Muito curto,Positiva,Outros,Despedida diária,5,médio,Outros
 d8047cc1-608d-428a-820f-e376ce08bc55,3/17/2025,Journaling,Pouco,Não,Elogio,Não,Normal,Positiva,Familiar,Gratidão pelo tempo em família e experiência musical,5,médio,Familiar
 d8047cc1-608d-428a-820f-e376ce08bc55,3/18/2025,Journaling,Muito,Não,Neutro,Não,Longo,Neutra,Ansiedade,"Ansiedade sobre reunião escolar, Cansaço devido a rotina diária",5,médio,Acadêmicos
 d8047cc1-608d-428a-820f-e376ce08bc55,3/20/2025,Journaling,Pouco,Não,Neutro,Não,Longo,Positiva,Familiar,Adaptação escolar da filha,5,médio,Familiar
-d9a3e21d-7dda-40c7-8495-4abc3c415a7a,3/13/2025,Journaling,Pouco,Não,Elogio,Não,Longo,Neutra,Sem informação,Insatisfação com a aparência devido a medicação,2,baixo,Outros
+d9a3e21d-7dda-40c7-8495-4abc3c415a7a,3/13/2025,Journaling,Pouco,Não,Elogio,Não,Longo,Neutra,Outros,Insatisfação com a aparência devido a medicação,2,baixo,Outros
 d9a3e21d-7dda-40c7-8495-4abc3c415a7a,3/14/2025,Journaling,Nada,Não,Neutro,Não,Normal,Neutra,Rotina,Cansaço,2,baixo,Rotina
 dd5a41bf-5fb1-43ab-9c78-f584b1a2a109,3/25/2025,Desabafo,Pouco,Não,Neutro,Não,Longo,Negativa,Familiar,"Relação com a mãe, Responsabilidades com o irmão, Falta de reconhecimento",1,baixo,Familiar
-ddfe5007-8fc9-4762-9ac9-6235ce5553e4,3/18/2025,,,,,,,,Sem informação,,13,alto,Outros
+ddfe5007-8fc9-4762-9ac9-6235ce5553e4,3/18/2025,,,,,,,,Outros,,13,alto,Outros
 ddfe5007-8fc9-4762-9ac9-6235ce5553e4,3/19/2025,,,,,,,,Outros,,13,alto,Outros
 ddfe5007-8fc9-4762-9ac9-6235ce5553e4,3/15/2025,Journaling,Muito,Não,Elogio,Não,Longo,Neutra,Amoroso,"Término de relacionamento, Exploração da sexualidade",13,alto,Amoroso
 ddfe5007-8fc9-4762-9ac9-6235ce5553e4,3/16/2025,Journaling,Pouco,Não,Neutro,Sim,Longo,Neutra,Acadêmicos,Provas e Apresentações Acadêmicas,13,alto,Acadêmicos
@@ -989,9 +989,9 @@ e2418396-fbb5-491e-a5d0-872f857c6e72,12/24/2024,Journaling,Muito,Não,Neutro,Nã
 e2418396-fbb5-491e-a5d0-872f857c6e72,4/1/2025,Journaling,Muito,Não,Neutro,Não,Longo,Neutra,Amoroso,"Planejamento de casamento, Envolvimento do parceiro, Sentimento de não ser ouvido, Gatilhos emocionais",9,alto,Amoroso
 e2418396-fbb5-491e-a5d0-872f857c6e72,4/3/2025,Journaling,Muito,Não,Elogio,Não,Longo,Positiva,Ansiedade,"Relação com a mãe, Gestos de carinho e intimidade no relacionamento amoroso",9,alto,Amoroso
 e2418396-fbb5-491e-a5d0-872f857c6e72,4/3/2025,Journaling,Muito,Não,Elogio,Não,Longo,Positiva,Amoroso,"Relação com a mãe, Gestos de carinho e intimidade no relacionamento amoroso",9,alto,Amoroso
-e2418396-fbb5-491e-a5d0-872f857c6e72,4/5/2025,Journaling,Nada,Não,Neutro,Não,Muito curto,Neutra,Sem informação,Nenhum específico,9,alto,Outros
+e2418396-fbb5-491e-a5d0-872f857c6e72,4/5/2025,Journaling,Nada,Não,Neutro,Não,Muito curto,Neutra,Outros,Nenhum específico,9,alto,Outros
 e2418396-fbb5-491e-a5d0-872f857c6e72,4/6/2025,Journaling,Muito,Não,Elogio,Não,Normal,Positiva,Outros,Comunicação e Paciência,9,alto,Outros
-e2e8fbc3-2973-46ac-8f2f-72416c6404eb,3/31/2025,,,,,,,,Sem informação,,4,médio,Outros
+e2e8fbc3-2973-46ac-8f2f-72416c6404eb,3/31/2025,,,,,,,,Outros,,4,médio,Outros
 e2e8fbc3-2973-46ac-8f2f-72416c6404eb,3/30/2025,Journaling,Pouco,Não,Elogio,Não,Longo,Neutra,Amizade,Sentimento de solidão e desânimo na rotina diária,4,médio,Amizade
 e2e8fbc3-2973-46ac-8f2f-72416c6404eb,4/1/2025,Journaling,Pouco,Não,Neutro,Não,Normal,,Outros,Outros,4,médio,Outros
 e2e8fbc3-2973-46ac-8f2f-72416c6404eb,4/2/2025,Journaling,Muito,Não,Neutro,Não,Normal,Neutra,Amizade,Propósito e Resultados a Longo Prazo,4,médio,Autoconhecimento
@@ -1017,69 +1017,69 @@ e513f9c3-abac-44b0-b272-5b50b12c3f02,4/1/2025,Journaling,Pouco,Não,Neutro,Não,
 e513f9c3-abac-44b0-b272-5b50b12c3f02,4/2/2025,Desabafo,Nada,Não,Neutro,Não,Normal,,Familiar,Outros,8,alto,Outros
 e513f9c3-abac-44b0-b272-5b50b12c3f02,4/5/2025,Desabafo,Pouco,Não,Neutro,Não,Longo,Negativa,Rotina,"Cansaço, Insatisfação com o corpo",8,alto,Rotina
 e513f9c3-abac-44b0-b272-5b50b12c3f02,4/5/2025,Desabafo,Pouco,Não,Neutro,Não,Longo,Negativa,Amoroso,"Cansaço, Insatisfação com o corpo",8,alto,Rotina
-e513f9c3-abac-44b0-b272-5b50b12c3f02,4/6/2025,Journaling,Nada,Não,Neutro,Não,Muito curto,,Sem informação,Outros,8,alto,Outros
+e513f9c3-abac-44b0-b272-5b50b12c3f02,4/6/2025,Journaling,Nada,Não,Neutro,Não,Muito curto,,Outros,Outros,8,alto,Outros
 e513f9c3-abac-44b0-b272-5b50b12c3f02,4/7/2025,Journaling,Pouco,Não,Neutro,Não,Normal,,Familiar,Problemas na Familia,8,alto,Familiar
 e515be7b-9254-428d-8bbf-06cf70cbe651,3/24/2025,Journaling,Nada,Não,Elogio,Não,Normal,Positiva,Uso Aplicativo,Introdução ao uso do Dailydots e explicação de funcionamento,5,médio,Uso Aplicativo
-e515be7b-9254-428d-8bbf-06cf70cbe651,3/25/2025,Journaling,Nada,Não,Neutro,Não,Normal,Neutra,Sem informação,Sentimento de preocupação e ansiedade geral,5,médio,Outros
-e515be7b-9254-428d-8bbf-06cf70cbe651,3/26/2025,Journaling,Pouco,Não,Neutro,Não,Normal,,Sem informação,Outros,5,médio,Outros
-e515be7b-9254-428d-8bbf-06cf70cbe651,4/2/2025,Journaling,Nada,Não,Neutro,Não,Longo,,Sem informação,Outros,5,médio,Outros
-e515be7b-9254-428d-8bbf-06cf70cbe651,4/3/2025,Journaling,Nada,Não,Neutro,Não,Muito curto,,Sem informação,Outros,5,médio,Outros
-e520821b-3a80-4d46-8009-f8f46e836626,3/20/2025,,,,,,,,Sem informação,,7,alto,Outros
-e520821b-3a80-4d46-8009-f8f46e836626,3/17/2025,Journaling,Pouco,Não,Neutro,Sim,Normal,,Sem informação,Outros,7,alto,Outros
+e515be7b-9254-428d-8bbf-06cf70cbe651,3/25/2025,Journaling,Nada,Não,Neutro,Não,Normal,Neutra,Outros,Sentimento de preocupação e ansiedade geral,5,médio,Outros
+e515be7b-9254-428d-8bbf-06cf70cbe651,3/26/2025,Journaling,Pouco,Não,Neutro,Não,Normal,,Outros,Outros,5,médio,Outros
+e515be7b-9254-428d-8bbf-06cf70cbe651,4/2/2025,Journaling,Nada,Não,Neutro,Não,Longo,,Outros,Outros,5,médio,Outros
+e515be7b-9254-428d-8bbf-06cf70cbe651,4/3/2025,Journaling,Nada,Não,Neutro,Não,Muito curto,,Outros,Outros,5,médio,Outros
+e520821b-3a80-4d46-8009-f8f46e836626,3/20/2025,,,,,,,,Outros,,7,alto,Outros
+e520821b-3a80-4d46-8009-f8f46e836626,3/17/2025,Journaling,Pouco,Não,Neutro,Sim,Normal,,Outros,Outros,7,alto,Outros
 e520821b-3a80-4d46-8009-f8f46e836626,3/18/2025,Journaling,Nada,Não,Elogio,Não,Normal,Positiva,Uso Aplicativo,Exploração de recursos do aplicativo,7,alto,Uso Aplicativo
 e520821b-3a80-4d46-8009-f8f46e836626,3/21/2025,Journaling,Nada,Não,Neutro,Não,Curto,Muito Positiva,Autoconhecimento,Sentimento de bem-estar,7,alto,Autoconhecimento
 e520821b-3a80-4d46-8009-f8f46e836626,3/22/2025,Journaling,Nada,Não,Neutro,Não,Curto,Positiva,Autoconhecimento,Bem-estar geral,7,alto,Autoconhecimento
-e520821b-3a80-4d46-8009-f8f46e836626,3/24/2025,Journaling,Nada,Não,Neutro,Não,Curto,Positiva,Sem informação,Sentimento geral positivo,7,alto,Outros
-e520821b-3a80-4d46-8009-f8f46e836626,3/27/2025,Journaling,Nada,Não,Neutro,Não,Curto,Positiva,Sem informação,Nenhum específico,7,alto,Outros
-e60dbea9-119b-4a0a-b69b-250f95dfaca7,3/25/2025,Journaling,Pouco,Não,Elogio,Não,Longo,Neutra,Sem informação,Ansiedade e Frustração,7,alto,Outros
+e520821b-3a80-4d46-8009-f8f46e836626,3/24/2025,Journaling,Nada,Não,Neutro,Não,Curto,Positiva,Outros,Sentimento geral positivo,7,alto,Outros
+e520821b-3a80-4d46-8009-f8f46e836626,3/27/2025,Journaling,Nada,Não,Neutro,Não,Curto,Positiva,Outros,Nenhum específico,7,alto,Outros
+e60dbea9-119b-4a0a-b69b-250f95dfaca7,3/25/2025,Journaling,Pouco,Não,Elogio,Não,Longo,Neutra,Outros,Ansiedade e Frustração,7,alto,Outros
 e60dbea9-119b-4a0a-b69b-250f95dfaca7,3/26/2025,Journaling,Muito,Não,Neutro,Sim,Longo,Neutra,Saúde,Dificuldade para dormir e relaxar,7,alto,Saúde
-e60dbea9-119b-4a0a-b69b-250f95dfaca7,3/28/2025,Journaling,Nada,Não,Neutro,Não,Curto,Positiva,Sem informação,Sentimentos gerais,7,alto,Outros
-e60dbea9-119b-4a0a-b69b-250f95dfaca7,3/29/2025,Journaling,Nada,Não,Neutro,Não,Longo,Negativa,Sem informação,Estresse diário,7,alto,Outros
+e60dbea9-119b-4a0a-b69b-250f95dfaca7,3/28/2025,Journaling,Nada,Não,Neutro,Não,Curto,Positiva,Outros,Sentimentos gerais,7,alto,Outros
+e60dbea9-119b-4a0a-b69b-250f95dfaca7,3/29/2025,Journaling,Nada,Não,Neutro,Não,Longo,Negativa,Outros,Estresse diário,7,alto,Outros
 e60dbea9-119b-4a0a-b69b-250f95dfaca7,3/30/2025,Desabafo,Pouco,Não,Neutro,Não,Normal,Negativa,Rotina,Estresse e Cansaço,7,alto,Rotina
 e60dbea9-119b-4a0a-b69b-250f95dfaca7,4/2/2025,Journaling,Muito,Não,Neutro,Não,Longo,Neutra,Trabalho,Incerteza sobre o futuro profissional,7,alto,Trabalho
-e60dbea9-119b-4a0a-b69b-250f95dfaca7,4/5/2025,Journaling,Nada,Não,Neutro,Não,Muito curto,,Sem informação,Outros,7,alto,Outros
+e60dbea9-119b-4a0a-b69b-250f95dfaca7,4/5/2025,Journaling,Nada,Não,Neutro,Não,Muito curto,,Outros,Outros,7,alto,Outros
 e7084f14-1dd5-464f-8e29-6bdbb7ee4f43,4/6/2025,Desabafo,Pouco,Não,Neutro,Não,Normal,Negativa,Vícios,Luta contra vício em pornografia,3,médio,Vícios
 e7084f14-1dd5-464f-8e29-6bdbb7ee4f43,4/7/2025,Journaling,Muito,Não,Elogio,Não,Normal,Positiva,Familiar,Conquistas pessoais e momentos em família,3,médio,Familiar
-e7084f14-1dd5-464f-8e29-6bdbb7ee4f43,4/8/2025,Curto,Nada,Não,Neutro,Não,Curto,,Sem informação,Outros,3,médio,Outros
+e7084f14-1dd5-464f-8e29-6bdbb7ee4f43,4/8/2025,Curto,Nada,Não,Neutro,Não,Curto,,Outros,Outros,3,médio,Outros
 ebb2c4f1-7351-4997-9c3d-1b244dfebfdf,3/20/2025,Journaling,Pouco,Não,Neutro,Não,Normal,Neutra,Rotina,Cansaço e Reflexão sobre o dia,1,baixo,Rotina
 ed42e273-7ed9-4bc7-bcbe-4e0dbdeabbd7,3/29/2025,Journaling,Nada,Não,Elogio,Não,Normal,Positiva,Uso Aplicativo,Introdução ao uso do Dailydots e termos de serviço,1,baixo,Uso Aplicativo
-eeba181f-7fb7-4907-ac65-78a55cd84c0c,4/7/2025,Journaling,Nada,Não,Elogio,Não,Normal,,Sem informação,Outros,1,baixo,Outros
+eeba181f-7fb7-4907-ac65-78a55cd84c0c,4/7/2025,Journaling,Nada,Não,Elogio,Não,Normal,,Outros,Outros,1,baixo,Outros
 eebb4617-ed83-4d30-ac1a-418022c8b775,4/5/2025,Journaling,Muito,Não,Neutro,Não,Longo,Neutra,Acadêmicos,"Sentimento de exclusão, Dificuldade em equilibrar estudos e descanso, Problemas com colegas de classe, Limites pessoais e autocuidado",1,baixo,Acadêmicos
 f026ce22-6194-4930-818f-af18b17bd5af,4/3/2025,Desabafo,Muito,Não,Elogio,Sim,Longo,Negativa,Autoconhecimento,"Traição e Culpa, Consentimento e Respeito, Terapia e Autoconhecimento",3,médio,Autoconhecimento
 f026ce22-6194-4930-818f-af18b17bd5af,4/4/2025,Desabafo,Muito,Não,Neutro,Sim,Longo,Negativa,Trabalho,"Diferenças nas necessidades emocionais e físicas, Culpa e amor, Terapia e suporte profissional",3,médio,Trabalho
-f026ce22-6194-4930-818f-af18b17bd5af,4/5/2025,Desabafo,Pouco,Sim,Neutro,Sim,Longo,Negativa,Sem informação,Dúvidas sobre continuidade e segurança no relacionamento,3,médio,Outros
+f026ce22-6194-4930-818f-af18b17bd5af,4/5/2025,Desabafo,Pouco,Sim,Neutro,Sim,Longo,Negativa,Outros,Dúvidas sobre continuidade e segurança no relacionamento,3,médio,Outros
 f1f668ba-934e-40d7-9e38-fd9fff6b4986,3/13/2025,Desabafo,Pouco,Não,Neutro,Sim,Longo,Negativa,Amoroso,Traição e término de relacionamento,2,baixo,Amoroso
-f1f668ba-934e-40d7-9e38-fd9fff6b4986,3/14/2025,Desabafo,Muito,Não,Neutro,Não,Longo,Negativa,Sem informação,Traição e Autoestima Abalada,2,baixo,Outros
-f21ba1f5-635c-4204-9ed0-0752528eaedd,3/14/2025,Journaling,Nada,Não,Neutro,Não,Normal,,Sem informação,Outros,1,baixo,Outros
-f32e5f08-027e-4960-a2da-6e21785b4f4b,3/20/2025,Desabafo,Muito,Não,Elogio,Sim,Longo,Neutra,Sem informação,Confiança e Comunicação,3,médio,Outros
+f1f668ba-934e-40d7-9e38-fd9fff6b4986,3/14/2025,Desabafo,Muito,Não,Neutro,Não,Longo,Negativa,Outros,Traição e Autoestima Abalada,2,baixo,Outros
+f21ba1f5-635c-4204-9ed0-0752528eaedd,3/14/2025,Journaling,Nada,Não,Neutro,Não,Normal,,Outros,Outros,1,baixo,Outros
+f32e5f08-027e-4960-a2da-6e21785b4f4b,3/20/2025,Desabafo,Muito,Não,Elogio,Sim,Longo,Neutra,Outros,Confiança e Comunicação,3,médio,Outros
 f32e5f08-027e-4960-a2da-6e21785b4f4b,3/21/2025,Desabafo,Pouco,Não,Neutro,Não,Longo,Neutra,Amoroso,Pensamentos intrusivos e ciúmes,3,médio,Amoroso
-f32e5f08-027e-4960-a2da-6e21785b4f4b,3/26/2025,Journaling,Nada,Não,Neutro,Não,Muito curto,,Sem informação,Outros,3,médio,Outros
-f40f5501-e0dc-44d7-99c3-4a3371e66e87,4/7/2025,Journaling,Nada,Não,Neutro,Não,Muito curto,,Sem informação,Outros,1,baixo,Outros
-f432287c-b3a9-4514-9641-ec10a143a53c,3/17/2025,Journaling,Pouco,Não,Elogio,Não,Longo,Positiva,Sem informação,"Incertezas profissionais, Irritabilidade, Meditação",1,baixo,Outros
-f48d876f-43ec-4ae8-9a79-0b5213cf4690,4/1/2025,,,,,,,,Sem informação,,8,alto,Outros
+f32e5f08-027e-4960-a2da-6e21785b4f4b,3/26/2025,Journaling,Nada,Não,Neutro,Não,Muito curto,,Outros,Outros,3,médio,Outros
+f40f5501-e0dc-44d7-99c3-4a3371e66e87,4/7/2025,Journaling,Nada,Não,Neutro,Não,Muito curto,,Outros,Outros,1,baixo,Outros
+f432287c-b3a9-4514-9641-ec10a143a53c,3/17/2025,Journaling,Pouco,Não,Elogio,Não,Longo,Positiva,Outros,"Incertezas profissionais, Irritabilidade, Meditação",1,baixo,Outros
+f48d876f-43ec-4ae8-9a79-0b5213cf4690,4/1/2025,,,,,,,,Outros,,8,alto,Outros
 f48d876f-43ec-4ae8-9a79-0b5213cf4690,3/27/2025,Reflexão Profunda,Muito,Não,Elogio,Sim,Longo,Neutra,Autoconhecimento,Reflexão sobre ações passadas e crescimento pessoal,8,alto,Autoconhecimento
 f48d876f-43ec-4ae8-9a79-0b5213cf4690,3/28/2025,Journaling,Nada,Não,Neutro,Não,Curto,Negativa,Depressão,Sentimento de mal-estar geral sem motivo específico,8,alto,Depressão
-f48d876f-43ec-4ae8-9a79-0b5213cf4690,3/29/2025,Reflexão Profunda,Muito,Não,Neutro,Sim,Longo,Neutra,Sem informação,Pedido de desculpas e apoio em situações difíceis,8,alto,Outros
+f48d876f-43ec-4ae8-9a79-0b5213cf4690,3/29/2025,Reflexão Profunda,Muito,Não,Neutro,Sim,Longo,Neutra,Outros,Pedido de desculpas e apoio em situações difíceis,8,alto,Outros
 f48d876f-43ec-4ae8-9a79-0b5213cf4690,3/30/2025,Desabafo,Muito,Não,Neutro,Sim,Longo,Negativa,Trabalho,"Arrependimento por ações passadas, Dificuldade em fazer amigos, Autoimagem negativa, Busca por autoconhecimento, Desejo de mudança pessoal, Dificuldades financeiras para buscar ajuda profissional",8,alto,Trabalho
 f48d876f-43ec-4ae8-9a79-0b5213cf4690,3/30/2025,Desabafo,Muito,Não,Neutro,Sim,Longo,Negativa,Trabalho,"Arrependimento por ações passadas, Dificuldade em fazer amigos, Autoimagem negativa, Busca por autoconhecimento, Desejo de mudança pessoal, Dificuldades financeiras para buscar ajuda profissional",8,alto,Trabalho
 f48d876f-43ec-4ae8-9a79-0b5213cf4690,3/30/2025,Desabafo,Muito,Não,Neutro,Sim,Longo,Negativa,Trabalho,"Arrependimento por ações passadas, Dificuldade em fazer amigos, Autoimagem negativa, Busca por autoconhecimento, Desejo de mudança pessoal, Dificuldades financeiras para buscar ajuda profissional",8,alto,Trabalho
 f48d876f-43ec-4ae8-9a79-0b5213cf4690,3/31/2025,Desabafo,Muito,Não,Neutro,Sim,Longo,Negativa,Familiar,"Falta de apoio familiar, Bullying na escola, Dificuldade em reconhecer sentimentos, Impulsividade e comunicação",8,alto,Familiar
 f48d876f-43ec-4ae8-9a79-0b5213cf4690,3/31/2025,Desabafo,Muito,Não,Neutro,Sim,Longo,Negativa,Familiar,"Falta de apoio familiar, Bullying na escola, Dificuldade em reconhecer sentimentos, Impulsividade e comunicação",8,alto,Familiar
-f48d876f-43ec-4ae8-9a79-0b5213cf4690,4/3/2025,Journaling,Nada,Não,Neutro,Não,Muito curto,Neutra,Sem informação,Nenhum específico,8,alto,Outros
+f48d876f-43ec-4ae8-9a79-0b5213cf4690,4/3/2025,Journaling,Nada,Não,Neutro,Não,Muito curto,Neutra,Outros,Nenhum específico,8,alto,Outros
 f48d876f-43ec-4ae8-9a79-0b5213cf4690,4/6/2025,Journaling,Nada,Não,Neutro,Não,Normal,Positiva,Autoconhecimento,Bem-estar geral,8,alto,Autoconhecimento
 f6aea019-6c52-4d35-a715-03a3cffc9da9,3/26/2025,Journaling,Nada,Não,Elogio,Não,Normal,Positiva,Rotina,Organização e Planejamento,10,alto,Rotina
 f6aea019-6c52-4d35-a715-03a3cffc9da9,3/27/2025,Journaling,Pouco,Não,Neutro,Sim,Longo,Neutra,Acadêmicos,Provas na faculdade e autoescola,10,alto,Acadêmicos
 f6aea019-6c52-4d35-a715-03a3cffc9da9,3/28/2025,Journaling,Pouco,Não,Elogio,Sim,Longo,Neutra,Saúde,Dificuldade em encontrar motivação para exercícios físicos e identificar padrões emocionais.,10,alto,Saúde
 f6aea019-6c52-4d35-a715-03a3cffc9da9,3/29/2025,Journaling,Nada,Não,Neutro,Não,Curto,Neutra,Rotina,Cansaço,10,alto,Rotina
-f6aea019-6c52-4d35-a715-03a3cffc9da9,3/30/2025,Journaling,Nada,Não,Neutro,Não,Muito curto,,Sem informação,Outros,10,alto,Outros
-f6aea019-6c52-4d35-a715-03a3cffc9da9,4/2/2025,Journaling,Nada,Não,Neutro,Não,Muito curto,Neutra,Sem informação,Nenhum,10,alto,Outros
+f6aea019-6c52-4d35-a715-03a3cffc9da9,3/30/2025,Journaling,Nada,Não,Neutro,Não,Muito curto,,Outros,Outros,10,alto,Outros
+f6aea019-6c52-4d35-a715-03a3cffc9da9,4/2/2025,Journaling,Nada,Não,Neutro,Não,Muito curto,Neutra,Outros,Nenhum,10,alto,Outros
 f6aea019-6c52-4d35-a715-03a3cffc9da9,3/25/2025,Desabafo,Muito,Sim,Elogio,Não,Longo,Negativa,Depressão,Pensamentos suicidas e falta de apoio emocional na vida real,10,alto,Depressão
 f6aea019-6c52-4d35-a715-03a3cffc9da9,4/1/2025,Desabafo,Pouco,Sim,Neutro,Sim,Normal,Muito Negativa,Familiar,"Trauma de infância, Pensamentos suicidas, Apoio emocional",10,alto,Familiar
 f6aea019-6c52-4d35-a715-03a3cffc9da9,4/3/2025,Desabafo,Nada,Sim,Neutro,Sim,Longo,Muito Negativa,Depressão,Abuso e pensamentos suicidas,10,alto,Depressão
 f6aea019-6c52-4d35-a715-03a3cffc9da9,4/7/2025,Desabafo,Pouco,Sim,Neutro,Sim,Longo,Muito Negativa,Trabalho,"Ansiedade com aulas práticas, Trauma de abuso sexual, Pensamentos suicidas, Dificuldade em buscar ajuda profissional",10,alto,Trabalho
-f6ca19b5-11ca-491d-8cb3-8bd77ce35247,3/14/2025,Journaling,Muito,Não,Elogio,Sim,Longo,Neutra,Sem informação,"Dependência emocional, Expectativas no relacionamento, Ansiedade de longa data, Comunicação no relacionamento",1,baixo,Outros
-f86d783d-96f6-4598-ace2-79ee71169e6e,3/28/2025,Journaling,Pouco,Não,Neutro,Não,Longo,Positiva,Sem informação,Viagem e Cultura Afro-Brasileira,3,médio,Outros
+f6ca19b5-11ca-491d-8cb3-8bd77ce35247,3/14/2025,Journaling,Muito,Não,Elogio,Sim,Longo,Neutra,Outros,"Dependência emocional, Expectativas no relacionamento, Ansiedade de longa data, Comunicação no relacionamento",1,baixo,Outros
+f86d783d-96f6-4598-ace2-79ee71169e6e,3/28/2025,Journaling,Pouco,Não,Neutro,Não,Longo,Positiva,Outros,Viagem e Cultura Afro-Brasileira,3,médio,Outros
 f86d783d-96f6-4598-ace2-79ee71169e6e,3/29/2025,Desabafo,Pouco,Não,Critica,Não,Normal,Negativa,Familiar,Conflito religioso com a mãe,3,médio,Familiar
-f86d783d-96f6-4598-ace2-79ee71169e6e,3/30/2025,Journaling,Nada,Não,Neutro,Não,Muito curto,Neutra,Sem informação,Nenhum específico,3,médio,Outros
+f86d783d-96f6-4598-ace2-79ee71169e6e,3/30/2025,Journaling,Nada,Não,Neutro,Não,Muito curto,Neutra,Outros,Nenhum específico,3,médio,Outros
 fc164770-6d0b-4572-bd8e-5017c1a1602f,4/3/2025,Journaling,Muito,Não,Elogio,Não,Longo,Neutra,Amoroso,Saudade de ex-namorado e dilema sobre entrar em contato,2,baixo,Amoroso
-fc164770-6d0b-4572-bd8e-5017c1a1602f,4/5/2025,Journaling,Nada,Não,Neutro,Não,Muito curto,,Sem informação,Outros,2,baixo,Outros
+fc164770-6d0b-4572-bd8e-5017c1a1602f,4/5/2025,Journaling,Nada,Não,Neutro,Não,Muito curto,,Outros,Outros,2,baixo,Outros
