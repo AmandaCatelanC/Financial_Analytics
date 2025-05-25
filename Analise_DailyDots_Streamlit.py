@@ -83,9 +83,10 @@ st.markdown("""
 st.markdown("""
 A partir dos temas, foi criado pela autora uma categorização em blocos como **Familiar, Amoroso, Saúde, Rotina, Depressão, Acadêmicos, Financeiros, etc.** com o objetivo de **entender o que influencia o engajamento dos usuários** com o app.
 
-O gráfico abaixo mostra a distribuição dos temas e a porcentagem de comentários associados a cada um deles em relação a todos os comentários da base retirando comentários que não foi possível categorizar.
+O gráfico abaixo mostra a distribuição dos temas e a porcentagem de comentários associados a cada um deles em relação a todos os comentários da base.
 """)
 
+# Primeiro Gráfico ----------------------------------------------------------------------------------------------------------------------------
 # Agrupar e calcular porcentagem de comentários por tema
 comentarios_por_tema = df_explodido.groupby('Temas')['quantidade_comentarios'].sum().sort_values(ascending=False)
 comentarios_percentual = (comentarios_por_tema / comentarios_por_tema.sum()) * 100
@@ -119,6 +120,18 @@ plt.tight_layout()
 # Mostrar no Streamlit
 st.pyplot(fig)
 
+st.markdown("""
+Podemos observar que as pessoas costumam abordar com frequência temas como **Família**, **Trabalho**, **Relacionamentos Amorosos** e **Rotina**.  
+Esses assuntos se destacam e podem representar boas oportunidades como **chamadas para campanhas publicitárias futuras**.
+
+Agora, considerando essa divisão temática, é interessante observarmos **quais temas geram mais engajamento**.  
+Em outras palavras, quais tópicos fazem as pessoas se envolverem mais e escreverem com maior frequência?
+
+""")
+
+# Segundo Gráfico --------------------------------------------------------------------------------------------------------------------------
+# ------------------------------------------------------------------------------------------------------------------------------------------
+
 # 1. Contar quantos de cada engajamento por tema
 contagem = df_explodido.groupby(['Temas', 'engajamento']).size().unstack(fill_value=0)
 
@@ -130,19 +143,18 @@ porcentagem_long = porcentagem.reset_index().melt(
     id_vars='Temas', var_name='engajamento', value_name='porcentagem'
 )
 
-# Corrigir nomes da coluna para corresponder à paleta
+# Padronizar os nomes da coluna de engajamento (caso haja variação)
 porcentagem_long['engajamento'] = porcentagem_long['engajamento'].str.capitalize()
 
-# --- Paleta personalizada ---
+# Paleta personalizada
 custom_palette = {
-    'Baixo': '#F08080',   # vermelho claro
-    'Médio': '#FFFACD',   # amarelo pastel
-    'Alto': '#A8E6CF'     # verde pastel
+    'Baixo': '#F08080',
+    'Médio': '#FFFACD',
+    'Alto': '#A8E6CF'
 }
 
-# --- Criar gráfico ---
-fig, ax = plt.subplots(figsize=(10, 6))
-
+# Criar gráfico
+fig, ax = plt.subplots(figsize=(12, 8))
 sns.barplot(
     data=porcentagem_long,
     x='Temas',
@@ -153,15 +165,31 @@ sns.barplot(
     ax=ax
 )
 
-ax.set_title('Distribuição percentual de engajamento por tema')
+# Adicionar rótulos com os containers do seaborn
+for container in ax.containers:
+    ax.bar_label(container, fmt='%.1f%%', label_type='edge', padding=3, fontsize=9)
+
+# Ajustes finais
+ax.set_title('Distribuição Percentual de Engajamento por Tema')
 ax.set_xlabel('Temas')
 ax.set_ylabel('Porcentagem (%)')
 ax.legend(title='Engajamento')
 ax.tick_params(axis='x', rotation=45)
 plt.tight_layout()
 
+# Exibir no Streamlit
 st.pyplot(fig)
 
+st.markdown("""
+---
+O gráfico mostra o **percentual de engajamento por tema**, revelando que temas como **Família**, **Trabalho**, **Rotina** e **Saúde** apresentam **mais de 70% de engajamento alto**.
+
+A partir disso, surge uma pergunta: **qual é o tipo de vibe associado a esses temas mais engajadores**, como Família, Trabalho e Rotina?  
+Será que são acompanhados por sentimentos mais positivos, negativos ou neutros?
+
+Os gráficos a seguir nos ajudam a visualizar essa relação:
+""")
+# ------------------------------------------------------------------------------------------------------------------------------------------
 import matplotlib.pyplot as plt
 import seaborn as sns
 import streamlit as st
@@ -272,6 +300,21 @@ with col1:
 with col2:
     st.pyplot(fig2)
 
+
+# Gráfico ------------------------------------------------------------------------------------------------------------------------------------
+
+st.markdown("""
+Podemos notar que **vibes mais positivas tendem a ter maior engajamento**.  
+Além disso, a **vibe neutra** é a mais frequentemente registrada nas entradas da base, mostrando equilíbrio no tom geral das reflexões.
+
+---
+
+Também é possível investigar se o **tipo de reflexão** influencia o engajamento.  
+O gráfico abaixo indica que pessoas com **nível de engajamento mais alto** tendem a escrever **reflexões mais profundas**.
+""")
+
+# Gráfico ------------------------------------------------------------------------------------------------------------------------------------
+
 # 1. Contagem por 'Reflexoes' e 'engajamento'
 contagem_Reflexoes = df_explodido.groupby(['Reflexoes', 'engajamento']).size().unstack(fill_value=0)
 
@@ -309,3 +352,53 @@ for container in ax1.containers:
 plt.tight_layout()
 
 st.pyplot(fig3)
+
+# --------------------------------------------------- Tabela Regressão -----------------------------------------------------------------
+
+st.markdown("**Relatório de Classificação:**")
+st.markdown("""
+Com uma acurácia de **0.65**, observamos que os fatores que mais impulsionam o engajamento no uso do *DailyDots* estão relacionados a uma **vibe mais positiva** nas mensagens, além de **temas como Família, Rotina e Saúde**, que se destacam entre os mais engajadores.
+
+Outro ponto importante é que **reflexões mais profundas** também estão associadas a níveis mais altos de interação com a plataforma.
+
+Com base nesses insights, uma sugestão estratégica seria adaptar o comportamento do modelo de linguagem (*LLM*) para:
+
+- Estimular conversas em torno desses temas;
+- Promover uma atmosfera mais positiva;
+- Encorajar reflexões mais significativas por meio de perguntas com maior profundidade.
+
+Essa abordagem pode contribuir diretamente para o aumento do engajamento dos usuários com o *DailyDots*.
+""")
+
+
+# ⬇️ Tabela: Top variáveis associadas ao engajamento alto
+st.markdown("**Top variáveis mais associadas ao engajamento alto:**")
+
+import pandas as pd
+
+top_variaveis = pd.DataFrame({
+    "Alto": [0.703, 0.692, 0.570, 0.427, 0.422, 0.406, 0.388, 0.351, 0.345, 0.344,
+             0.325, 0.291, 0.190],
+    "Baixo": [0.020, -0.597, -0.087, 0.150, 0.097, -0.092, -0.246, -0.388, -0.341,
+              -0.394, -0.514, -0.295, -0.014],
+    "Médio": [-0.723, -0.095, -0.483, -0.577, -0.519, -0.314, -0.142, 0.037, -0.004,
+              0.050, 0.188, 0.004, -0.176]
+}, index=[
+    "Vibe_Muito Positiva",
+    "tema_Saúde",
+    "Temas_Autoconhecimento",
+    "Tipo_Reflexão Profunda",
+    "tema_Depressão",
+    "tema_Amizade",
+    "tema_Familiar",
+    "Vibe_Positiva",
+    "Temas_Familiar",
+    "tema_Rotina",
+    "Temas_Uso Aplicativo",
+    "Temas_Trabalho",
+    "Vibe_Neutra"
+])
+
+st.dataframe(top_variaveis.round(3).style.format("{:.3f}").set_caption("Coeficientes por classe"))
+
+
